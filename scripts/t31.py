@@ -4,40 +4,37 @@ import numpy as np
 
 plt.style.use('fivethirtyeight')
 
+# read in data
 raw_df = pd.read_csv('t31.csv', sep=',', header=0)
 
+# data wrangling
 raw_df['P'] = -np.log10(raw_df['P'])
 raw_df['FDR P'] = -np.log10(raw_df['FDR P'])
 subset_df = raw_df[raw_df['Trait'] != 'Alzheimers disease']
 subset_df = subset_df[subset_df['Trait'] !=
                       'Illnesses of mother: Alzheimers disease/dementia']
-# cutoff_df = subset_df[subset_df['P'] > 1.8]
-# trait_list = cutoff_df['Trait'].dropna().unique().tolist()
 
+# set p-value cut off for labelling
+cutoff_df = subset_df[subset_df['P'] > 1.8]
+trait_list = cutoff_df['Trait'].dropna().unique().tolist()
 
-
-
+# main plot
 plt.scatter(subset_df['rg'], subset_df['P'],
             c=subset_df['FDR P'], cmap='viridis')
 
+def anot(trait):
+    plt.annotate('{}'.format(
+        trait), (cutoff_df['rg'][cutoff_df['Trait'] == trait], cutoff_df['P'][cutoff_df['Trait'] == trait]), fontsize=10)
 
-# def anot(trait):
-#     plt.annotate('{}'.format(
-#         trait), (cutoff_df['rg'][cutoff_df['Trait'] == trait], cutoff_df['P'][cutoff_df['Trait'] == trait]), fontsize=10)
+plt.plot(cutoff_df['rg'], cutoff_df['P'], 'o', color='magenta',
+         markeredgecolor='white', markeredgewidth=1, alpha=0.1)
+
+# label points above p-value cut off
+for trait in trait_list:
+    anot(trait)
 
 
-# plt.plot(cutoff_df['rg'], cutoff_df['P'], 'o', color='magenta',
-#          markeredgecolor='white', markeredgewidth=1, alpha=0.1)
-
-# for trait in trait_list:
-#     anot(trait)
-
-
-# outlier_df = subset_df[subset_df['rg'] < -0.6]
-# plt.plot(outlier_df['rg'], outlier_df['P'], 'o', alpha=0.1)
-# plt.annotate('Cancer code_ self-reported: lung cancer',
-#              (outlier_df['rg'], outlier_df['P']), fontsize=10)
-
+# extras
 plt.axvline(x=0, c='k', lw=0.5, ls='-')
 plt.axhline(y=-np.log10(0.05), c='r', lw=1, ls='--', label='0.05')
 # plt.legend()
