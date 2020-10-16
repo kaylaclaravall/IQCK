@@ -56,7 +56,10 @@ df = pd.DataFrame(data, columns=['Gene Symbol', 'VEP Consequence', 'Num'])
 # wrangle the dataframe for a stacked bar plot
 plot_ready = df.groupby(['Gene Symbol', 'VEP Consequence']).sum().unstack()
 
+# define order of the bars
 order = ['CTC-496I23.1', 'CTD-2380F24.1', '-', 'C16orf62', 'KNOP1', 'AC002550.5', 'IQCK']
+
+# main plot
 plot_ready.loc[order].plot(kind='barh', y='Num', stacked=True, cmap='Set3')
 
 
