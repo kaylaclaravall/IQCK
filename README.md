@@ -4,4 +4,4 @@
 * Of the five newly discovered genome-wide loci **(IQCK, ACE, ADAM10, ADAMTS1, and WWOX)**, this project is investigating the putative function of **IQCK** using meta-visualisation and other bioinformatics methods.
 
 ### Computational Pipeline
-![Computational Pipeline](/outputs/pipeline.png){:height="36px" width="36px"}
+![Computational Pipeline](/outputs/pipeline.png)
