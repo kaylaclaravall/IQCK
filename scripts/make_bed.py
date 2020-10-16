@@ -1,5 +1,3 @@
-# make_bed.py
-
 import pandas as pd
 
 # read in table 9
