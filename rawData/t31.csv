@@ -1,0 +1,753 @@
+﻿Trait,Category,Self-defined Category,PMID,ethnicity,rg,se,Z-score,P,FDR P,h2 obs,h2 obs se,h2 int,h2 int se,gcov int,gcov int se
+Alzheimers disease,neurological,neurological,24162737,European,1.67,0.13,12.90,4.58E-38,3.44E-35,0.06,0.01,1.04,0.01,0.79,0.01
+Illnesses of mother: Alzheimers disease/dementia,ukbb,neurological,0,European,0.81,0.13,6.16,7.42E-10,2.79E-07,0.01,0.00,1.00,0.01,0.00,0.00
+Years of schooling 2016,education,education,27225129,European,-0.19,0.04,-5.08,3.87E-07,9.70E-05,0.13,0.00,0.93,0.01,0.00,0.00
+Fluid intelligence score,ukbb,cognitive,0,European,-0.25,0.05,-4.69,2.75E-06,5.17E-04,0.24,0.01,1.04,0.01,0.00,0.01
+Intelligence,cognitive,cognitive,28530673,European,-0.24,0.06,-4.17,3.02E-05,4.54E-03,0.19,0.01,1.01,0.01,0.00,0.01
+Professional Qualifications: College or University degree,ukbb,education,0,European,-0.17,0.04,-4.11,3.90E-05,4.89E-03,0.17,0.01,1.12,0.01,-0.01,0.01
+College completion,education,education,23722424,European,-0.28,0.07,-4.06,4.91E-05,5.27E-03,0.08,0.01,1.02,0.01,0.00,0.01
+Job involves mainly walking or standing,ukbb,exercise,0,European,0.24,0.06,4.01,6.18E-05,5.81E-03,0.08,0.00,1.03,0.01,0.01,0.01
+Professional Qualifications: None of the above,ukbb,education,0,European,0.19,0.05,3.95,7.95E-05,6.64E-03,0.10,0.00,1.07,0.01,0.00,0.01
+Professional Qualifications: O levels/GCSEs or equivalent,ukbb,education,0,European,-0.21,0.06,-3.76,2.00E-04,1.37E-02,0.05,0.00,1.02,0.01,0.00,0.01
+Professional Qualifications: A levels/AS levels or equivalent,ukbb,education,0,European,-0.18,0.05,-3.72,2.00E-04,1.37E-02,0.10,0.00,1.05,0.01,0.00,0.01
+Number of incorrect matches in round (memory test),ukbb,cognitive,0,European,0.21,0.06,3.59,3.00E-04,1.88E-02,0.05,0.00,1.00,0.01,-0.01,0.01
+Years of schooling (proxy cognitive performance),education,education,25201988,European,-0.24,0.07,-3.53,4.00E-04,2.31E-02,0.11,0.01,1.03,0.01,-0.01,0.01
+Years of schooling 2013,education,education,23722424,European,-0.24,0.07,-3.29,1.00E-03,4.87E-02,0.08,0.01,1.02,0.01,0.00,0.01
+Professional Qualifications: Other professional qualifications eg: nursing_ teaching,ukbb,education,0,European,-0.18,0.05,-3.25,1.10E-03,4.87E-02,0.05,0.00,1.03,0.01,0.00,0.01
+Sitting height,ukbb,height,0,European,-0.13,0.04,-3.27,1.10E-03,4.87E-02,0.32,0.02,1.14,0.04,0.01,0.01
+Prospective memory result,ukbb,cognitive,0,European,0.27,0.08,3.26,1.10E-03,4.87E-02,0.06,0.01,1.01,0.01,0.00,0.00
+Job involves heavy manual or physical work,ukbb,exercise,0,European,0.18,0.06,3.17,1.50E-03,6.27E-02,0.09,0.00,1.04,0.01,0.01,0.01
+Time spent using computer,ukbb,exercise,0,European,-0.15,0.05,-3.14,1.70E-03,6.73E-02,0.10,0.00,1.04,0.01,-0.01,0.01
+Illnesses of mother: High blood pressure,ukbb,blood pressure,0,European,-0.21,0.07,-3.10,2.00E-03,7.52E-02,0.03,0.00,1.02,0.01,0.01,0.00
+Age completed full time education,ukbb,education,0,European,-0.18,0.06,-3.08,2.10E-03,7.52E-02,0.08,0.00,1.06,0.01,-0.01,0.01
+Number of days/week of moderate physical activity 10+ minutes,ukbb,exercise,0,European,0.17,0.06,3.03,2.50E-03,8.55E-02,0.04,0.00,1.01,0.01,0.00,0.01
+Maximum heart rate during fitness test,ukbb,exercise,0,European,0.30,0.10,2.94,3.20E-03,1.05E-01,0.07,0.01,1.02,0.01,-0.01,0.00
+Standing height,ukbb,height,0,European,-0.11,0.04,-2.82,4.80E-03,1.50E-01,0.45,0.02,1.25,0.06,-0.01,0.01
+Time spent watching television (TV),ukbb,exercise,0,European,0.11,0.04,2.59,9.60E-03,2.89E-01,0.10,0.00,1.06,0.01,0.01,0.01
+Age at first live birth,ukbb,estrogen exposure,0,European,-0.12,0.05,-2.57,1.01E-02,2.92E-01,0.17,0.01,1.05,0.01,0.00,0.01
+Childhood IQ,education,cognitive,23358156,European,-0.28,0.11,-2.54,1.11E-02,2.98E-01,0.27,0.05,1.00,0.01,0.00,0.01
+HDL cholesterol,lipids,lipids,20686565,European,0.16,0.06,2.53,1.13E-02,2.98E-01,0.13,0.02,1.05,0.05,-0.02,0.01
+Transport type for commuting to job workplace: Public transport,ukbb,exercise,0,European,-0.20,0.08,-2.53,1.15E-02,2.98E-01,0.03,0.00,1.02,0.01,0.00,0.01
+Chest pain or discomfort walking normally,ukbb,coronary artery disease,0,European,0.21,0.09,2.45,1.43E-02,3.46E-01,0.07,0.01,1.01,0.01,0.00,0.01
+Age started oral contraceptive pill,ukbb,estrogen exposure,0,European,-0.19,0.08,-2.42,1.54E-02,3.46E-01,0.05,0.00,1.02,0.01,0.00,0.01
+Vascular/heart problems diagnosed by doctor: None of the above,ukbb,coronary artery disease,0,European,0.11,0.05,2.42,1.57E-02,3.46E-01,0.11,0.00,1.06,0.02,-0.01,0.01
+Arm predicted mass (right),ukbb,body mass index,0,European,-0.10,0.04,-2.41,1.58E-02,3.46E-01,0.26,0.01,1.11,0.03,0.01,0.01
+Illnesses of mother: Heart disease,ukbb,coronary artery disease,0,European,-0.21,0.09,-2.41,1.60E-02,3.46E-01,0.02,0.00,1.01,0.01,0.01,0.00
+Arm fat-free mass (right),ukbb,body mass index,0,European,-0.10,0.04,-2.39,1.68E-02,3.46E-01,0.27,0.01,1.10,0.03,0.01,0.01
+Trunk predicted mass,ukbb,body mass index,0,European,-0.10,0.04,-2.37,1.78E-02,3.46E-01,0.28,0.01,1.14,0.03,0.00,0.01
+Height_2010,anthropometric,body mass index,20881960,European,-0.11,0.05,-2.36,1.82E-02,3.46E-01,0.29,0.02,1.02,0.02,-0.02,0.01
+Peak expiratory flow (PEF),ukbb,height,0,European,-0.11,0.05,-2.36,1.85E-02,3.46E-01,0.09,0.00,1.06,0.01,0.00,0.01
+Fasting proinsulin,glycemic,metabolism,20081858,European,-0.30,0.13,-2.35,1.86E-02,3.46E-01,0.18,0.09,0.98,0.01,0.01,0.01
+Trunk fat-free mass,ukbb,body mass index,0,European,-0.10,0.04,-2.34,1.92E-02,3.46E-01,0.29,0.01,1.14,0.03,0.00,0.01
+Whole body water mass,ukbb,body mass index,0,European,-0.10,0.04,-2.34,1.92E-02,3.46E-01,0.29,0.01,1.13,0.03,0.00,0.01
+Duration of walks,ukbb,exercise,0,European,0.13,0.06,2.34,1.93E-02,3.46E-01,0.05,0.00,1.01,0.01,0.00,0.00
+Forced expiratory volume in 1-second (FEV1),ukbb,asthma,0,European,-0.09,0.04,-2.32,2.03E-02,3.47E-01,0.15,0.01,1.06,0.01,-0.01,0.01
+Leg predicted mass (left),ukbb,body mass index,0,European,-0.10,0.04,-2.31,2.07E-02,3.47E-01,0.27,0.01,1.11,0.03,0.01,0.01
+Whole body fat-free mass,ukbb,body mass index,0,European,-0.09,0.04,-2.30,2.15E-02,3.47E-01,0.29,0.01,1.13,0.03,0.00,0.01
+Vascular/heart problems diagnosed by doctor: Angina,ukbb,coronary artery disease,0,European,-0.18,0.08,-2.29,2.20E-02,3.47E-01,0.02,0.00,1.02,0.01,0.02,0.01
+Chronic Kidney Disease,kidney,kidney,26831199,Mixed,-0.37,0.16,-2.28,2.25E-02,3.47E-01,0.02,0.01,1.02,0.01,0.02,0.00
+Duration of moderate activity,ukbb,exercise,0,European,0.16,0.07,2.28,2.25E-02,3.47E-01,0.03,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: I21 Acute myocardial infarction,ukbb,coronary artery disease,0,European,-0.21,0.09,-2.27,2.35E-02,3.47E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Leg fat-free mass (left),ukbb,body mass index,0,European,-0.09,0.04,-2.26,2.37E-02,3.47E-01,0.27,0.01,1.11,0.03,0.01,0.01
+Asthma,autoimmune,asthma,17611496,European,0.28,0.12,2.26,2.37E-02,3.47E-01,0.12,0.03,1.01,0.01,0.00,0.01
+Basal metabolic rate,ukbb,metabolism,0,European,-0.09,0.04,-2.26,2.40E-02,3.47E-01,0.28,0.01,1.12,0.03,0.00,0.01
+Forced vital capacity (FVC),ukbb,asthma,0,European,-0.09,0.04,-2.22,2.62E-02,3.66E-01,0.17,0.01,1.09,0.02,-0.01,0.01
+Non-cancer illness code_ self-reported: heart attack/myocardial infarction,ukbb,vascular,0,European,-0.16,0.07,-2.22,2.63E-02,3.66E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Comparative height size at age 10,ukbb,height,0,European,-0.09,0.04,-2.20,2.81E-02,3.80E-01,0.24,0.01,1.11,0.03,0.00,0.01
+Serum creatinine (non-diabetes),kidney,kidney,26831199,Mixed,0.13,0.06,2.19,2.83E-02,3.80E-01,0.11,0.01,0.98,0.01,-0.01,0.01
+Tobacco smoking: Ex-smoker,ukbb,cigarette smoking,0,European,-0.17,0.08,-2.18,2.94E-02,3.88E-01,0.08,0.01,1.01,0.01,0.01,0.00
+Arm predicted mass (left),ukbb,body mass index,0,European,-0.09,0.04,-2.17,3.04E-02,3.91E-01,0.26,0.01,1.11,0.03,0.01,0.01
+Height; Females at age 10 and males at age 12,anthropometric,height,23449627,European,-0.17,0.08,-2.16,3.07E-02,3.91E-01,0.43,0.05,0.95,0.01,0.00,0.01
+Leg predicted mass (right),ukbb,body mass index,0,European,-0.09,0.04,-2.14,3.21E-02,4.02E-01,0.26,0.01,1.11,0.03,0.00,0.01
+Leg fat-free mass (right),ukbb,body mass index,0,European,-0.09,0.04,-2.14,3.26E-02,4.02E-01,0.26,0.01,1.11,0.03,0.00,0.01
+Arm fat-free mass (left),ukbb,body mass index,0,European,-0.09,0.04,-2.13,3.35E-02,4.06E-01,0.27,0.01,1.11,0.03,0.00,0.01
+Medication for cholesterol_ blood pressure_ diabetes_ or take exogenous hormones: Blood pressure medication,ukbb,blood pressure,0,European,-0.12,0.06,-2.10,3.58E-02,4.27E-01,0.11,0.01,1.03,0.01,0.00,0.01
+Fractured bone site(s): Arm,ukbb,body mass index,0,European,0.28,0.13,2.09,3.63E-02,4.27E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Cancer code_ self-reported: basal cell carcinoma,ukbb,cancer,0,European,-0.20,0.10,-2.08,3.71E-02,4.29E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Types of transport used (excluding work): Walk,ukbb,exercise,0,European,-0.12,0.06,-2.06,3.95E-02,4.41E-01,0.03,0.00,1.04,0.01,-0.01,0.00
+Current employment status: Unable to work because of sickness or disability,ukbb,employment,0,European,0.13,0.07,2.06,3.97E-02,4.41E-01,0.02,0.00,1.02,0.01,0.01,0.01
+Diagnoses - main ICD10: I20 Angina pectoris,ukbb,coronary artery disease,0,European,-0.23,0.11,-2.05,4.02E-02,4.41E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Wears glasses or contact lenses,ukbb,eye,0,European,-0.17,0.08,-2.05,4.06E-02,4.41E-01,0.02,0.00,1.00,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: angina,ukbb,coronary artery disease,0,European,-0.16,0.08,-2.04,4.15E-02,4.41E-01,0.02,0.00,1.02,0.01,0.01,0.01
+Serum creatinine,kidney,kidney,26831199,Mixed,0.12,0.06,2.04,4.16E-02,4.41E-01,0.11,0.01,0.98,0.01,-0.01,0.01
+Non-cancer illness code_ self-reported: gastro-oesophageal reflux (gord) / gastric reflux,ukbb,stress,0,European,0.20,0.10,2.03,4.28E-02,4.47E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Fasting insulin main effect,glycemic,metabolism,22581228,European,-0.18,0.09,-2.02,4.34E-02,4.47E-01,0.07,0.01,1.02,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: hypertension,ukbb,blood pressure,0,European,-0.09,0.05,-1.99,4.62E-02,4.69E-01,0.11,0.01,1.06,0.02,0.01,0.01
+Professional Qualifications: CSEs or equivalent,ukbb,education,0,European,0.13,0.07,1.98,4.76E-02,4.77E-01,0.02,0.00,1.06,0.01,0.00,0.00
+Vascular/heart problems diagnosed by doctor: Heart attack,ukbb,vascular,0,European,-0.15,0.08,-1.97,4.87E-02,4.79E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Vascular/heart problems diagnosed by doctor: High blood pressure,ukbb,blood pressure,0,European,-0.09,0.05,-1.97,4.90E-02,4.79E-01,0.12,0.01,1.06,0.02,0.01,0.01
+Worrier / anxious feelings,ukbb,stress,0,European,0.09,0.05,1.96,4.97E-02,4.79E-01,0.08,0.01,1.00,0.01,-0.01,0.01
+Ever vs never smoked,smoking_behaviour,,20418890,European,-0.16,0.08,-1.96,5.04E-02,4.80E-01,0.07,0.01,1.00,0.01,0.01,0.00
+Pain type(s) experienced in last month: Hip pain,ukbb,,0,European,-0.13,0.07,-1.95,5.12E-02,4.81E-01,0.02,0.00,1.02,0.01,0.01,0.00
+Average weekly red wine intake,ukbb,,0,European,-0.11,0.06,-1.94,5.27E-02,4.89E-01,0.06,0.00,1.01,0.01,0.00,0.01
+Duration of other exercises,ukbb,,0,European,0.19,0.10,1.91,5.61E-02,5.01E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Cancer code_ self-reported: breast cancer,ukbb,,0,European,-0.20,0.10,-1.91,5.62E-02,5.01E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Infant head circumference,anthropometric,,22504419,European,-0.24,0.12,-1.91,5.64E-02,5.01E-01,0.23,0.04,0.99,0.01,0.00,0.01
+Forced expiratory volume in 1-second (FEV1)_ predicted,ukbb,,0,European,-0.11,0.06,-1.91,5.66E-02,5.01E-01,0.17,0.01,1.04,0.01,0.00,0.01
+Type of tobacco previously smoked: Cigars or pipes,ukbb,,0,European,-0.34,0.18,-1.88,5.99E-02,5.22E-01,0.01,0.01,1.00,0.01,0.00,0.00
+Transport type for commuting to job workplace: Cycle,ukbb,,0,European,-0.16,0.08,-1.88,6.04E-02,5.22E-01,0.03,0.00,1.02,0.01,0.00,0.01
+Anorexia Nervosa,psychiatric,,24514567,European,0.10,0.06,1.86,6.36E-02,5.43E-01,0.56,0.03,0.90,0.01,0.02,0.00
+Creatinine,metabolites,,27005778,European,-0.20,0.11,-1.84,6.56E-02,5.45E-01,0.11,0.03,1.01,0.01,0.01,0.00
+Illnesses of siblings: High blood pressure,ukbb,,0,European,-0.12,0.07,-1.84,6.63E-02,5.45E-01,0.04,0.00,1.01,0.01,0.01,0.01
+Illness_ injury_ bereavement_ stress in last 2 years: Serious illness_ injury or assault to yourself,ukbb,,0,European,-0.16,0.09,-1.82,6.83E-02,5.45E-01,0.01,0.00,1.01,0.01,0.01,0.01
+Diagnoses - main ICD10: K60 Fissure and fistula of anal and rectal regions,ukbb,,0,European,0.23,0.13,1.82,6.94E-02,5.45E-01,0.01,0.00,0.98,0.01,0.00,0.00
+Illness_ injury_ bereavement_ stress in last 2 years: Serious illness_ injury or assault of a close relative,ukbb,,0,European,-0.17,0.10,-1.81,6.96E-02,5.45E-01,0.01,0.00,1.01,0.01,-0.01,0.00
+Illnesses of mother: Breast cancer,ukbb,,0,European,-0.20,0.11,-1.81,7.04E-02,5.45E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Fasting glucose main effect,glycemic,,22581228,European,0.13,0.07,1.81,7.09E-02,5.45E-01,0.10,0.02,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: I25 Chronic ischaemic heart disease,ukbb,,0,European,-0.14,0.08,-1.80,7.15E-02,5.45E-01,0.02,0.00,1.02,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: depression,ukbb,,0,European,0.13,0.07,1.80,7.16E-02,5.45E-01,0.02,0.00,1.00,0.01,0.00,0.01
+Loneliness_ isolation,ukbb,,0,European,0.11,0.06,1.79,7.33E-02,5.45E-01,0.04,0.00,1.02,0.01,-0.01,0.01
+Mood swings,ukbb,,0,European,0.09,0.05,1.79,7.39E-02,5.45E-01,0.07,0.00,1.02,0.01,0.00,0.01
+Mouth/teeth dental problems: Bleeding gums,ukbb,,0,European,-0.13,0.07,-1.79,7.41E-02,5.45E-01,0.02,0.00,1.01,0.01,0.01,0.00
+Average weekly beer plus cider intake,ukbb,,0,European,0.11,0.06,1.79,7.41E-02,5.45E-01,0.05,0.00,1.06,0.01,0.01,0.00
+Average weekly fortified wine intake,ukbb,,0,European,-0.19,0.10,-1.79,7.42E-02,5.45E-01,0.01,0.00,1.02,0.01,-0.01,0.00
+Leucine,metabolites,,27005778,European,-0.30,0.17,-1.78,7.48E-02,5.45E-01,0.05,0.02,1.01,0.01,0.01,0.00
+Ever highly irritable/argumentative for 2 days,ukbb,,0,European,0.14,0.08,1.77,7.66E-02,5.45E-01,0.05,0.01,1.00,0.01,0.00,0.01
+Drive faster than motorway speed limit,ukbb,,0,European,-0.10,0.05,-1.77,7.70E-02,5.45E-01,0.06,0.00,1.03,0.01,0.00,0.00
+Had major operations,ukbb,,0,European,0.15,0.09,1.77,7.70E-02,5.45E-01,0.03,0.00,1.01,0.01,-0.01,0.01
+Length of menstrual cycle,ukbb,,0,European,-0.18,0.10,-1.76,7.76E-02,5.45E-01,0.10,0.02,1.00,0.01,0.01,0.01
+Hip circumference,anthropometric,,25673412,European,-0.09,0.05,-1.76,7.88E-02,5.48E-01,0.13,0.01,0.86,0.01,0.00,0.01
+Insomnia,sleeping,,28604731,European,-0.15,0.09,-1.75,7.95E-02,5.48E-01,0.05,0.00,1.00,0.01,0.01,0.00
+Illnesses of father: High blood pressure,ukbb,,0,European,-0.15,0.09,-1.71,8.68E-02,5.92E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Schizophrenia,psychiatric,,25056061,Mixed,0.07,0.04,1.71,8.74E-02,5.92E-01,0.46,0.02,1.05,0.01,0.03,0.01
+Reason for glasses/contact lenses: For astigmatism,ukbb,,0,European,-0.17,0.10,-1.70,8.98E-02,5.98E-01,0.01,0.00,1.03,0.01,0.00,0.00
+Illness_ injury_ bereavement_ stress in last 2 years: Financial difficulties,ukbb,,0,European,0.10,0.06,1.69,9.03E-02,5.98E-01,0.03,0.00,1.03,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: osteoporosis,ukbb,,0,European,0.13,0.08,1.69,9.13E-02,5.98E-01,0.01,0.00,1.00,0.01,-0.01,0.00
+Isoleucine,metabolites,,27005778,European,-0.22,0.13,-1.69,9.14E-02,5.98E-01,0.07,0.02,0.99,0.01,0.01,0.00
+Duration of fitness test,ukbb,,0,European,0.31,0.19,1.68,9.31E-02,6.00E-01,0.02,0.01,1.00,0.01,-0.01,0.00
+Number of live births,ukbb,,0,European,0.11,0.07,1.68,9.33E-02,6.00E-01,0.06,0.00,1.01,0.01,0.00,0.01
+Total cholesterol in medium HDL,metabolites,,27005778,European,0.25,0.15,1.67,9.50E-02,6.05E-01,0.06,0.02,1.00,0.01,0.00,0.00
+HbA1C,glycemic,,20858683,European,-0.16,0.10,-1.66,9.64E-02,6.09E-01,0.07,0.01,1.00,0.01,0.01,0.00
+Body mass index,anthropometric,,20935630,European,-0.08,0.05,-1.65,9.90E-02,6.18E-01,0.19,0.01,1.01,0.01,0.01,0.01
+Waist circumference,anthropometric,,25673412,European,-0.09,0.05,-1.65,9.99E-02,6.18E-01,0.12,0.01,0.84,0.01,0.00,0.01
+Pain type(s) experienced in last month: Facial pain,ukbb,,0,European,-0.19,0.11,-1.64,1.00E-01,6.18E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Hip circumference,ukbb,,0,European,-0.07,0.04,-1.64,1.02E-01,6.19E-01,0.22,0.01,1.08,0.02,0.00,0.01
+Forced expiratory volume in 1-second (FEV1)_ Best measure,ukbb,,0,European,-0.07,0.04,-1.63,1.04E-01,6.19E-01,0.16,0.01,1.06,0.01,-0.01,0.01
+Coronary artery disease,cardiometabolic,,26343387,Mixed,-0.08,0.05,-1.63,1.04E-01,6.19E-01,0.08,0.01,1.04,0.01,0.01,0.00
+Forced vital capacity (FVC)_ Best measure,ukbb,,0,European,-0.07,0.04,-1.63,1.04E-01,6.19E-01,0.19,0.01,1.08,0.02,-0.01,0.01
+Weight,ukbb,,0,European,-0.07,0.04,-1.62,1.05E-01,6.19E-01,0.27,0.01,1.08,0.02,0.01,0.01
+Smoking/smokers in household,ukbb,,0,European,0.16,0.10,1.60,1.09E-01,6.38E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Diastolic blood pressure_ automated reading,ukbb,,0,European,-0.07,0.04,-1.60,1.10E-01,6.38E-01,0.14,0.01,1.07,0.02,0.01,0.01
+Sodium in urine,ukbb,,0,European,0.08,0.05,1.60,1.10E-01,6.38E-01,0.07,0.00,1.03,0.01,0.00,0.01
+Free cholesterol in medium HDL,metabolites,,27005778,European,0.22,0.14,1.59,1.13E-01,6.48E-01,0.07,0.02,1.00,0.01,0.00,0.00
+Friendships satisfaction,ukbb,,0,European,-0.12,0.08,-1.57,1.15E-01,6.57E-01,0.06,0.01,1.00,0.01,0.01,0.01
+Sensitivity / hurt feelings,ukbb,,0,European,0.08,0.05,1.55,1.20E-01,6.79E-01,0.06,0.00,1.02,0.01,0.00,0.01
+Pack years adult smoking as proportion of life span exposed to smoking PREVIEW ONLY,ukbb,,0,European,0.09,0.06,1.54,1.24E-01,6.82E-01,0.13,0.01,1.01,0.01,0.00,0.01
+Tinnitus: Yes_ now most or all of the time,ukbb,,0,European,0.14,0.09,1.53,1.26E-01,6.82E-01,0.03,0.00,1.00,0.01,-0.01,0.01
+Reason for glasses/contact lenses: For long-sightedness_ i.e. for distance and near_ but particularly for near tasks like reading (called hypermetropia),ukbb,,0,European,0.15,0.10,1.53,1.26E-01,6.82E-01,0.01,0.00,1.06,0.01,0.00,0.01
+Medication for pain relief_ constipation_ heartburn: Aspirin,ukbb,,0,European,-0.12,0.08,-1.53,1.26E-01,6.82E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Diagnoses - main ICD10: R14 Flatulence and related conditions,ukbb,,0,European,0.25,0.17,1.52,1.28E-01,6.82E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Non-accidental death in close genetic family,ukbb,,0,European,-0.21,0.14,-1.52,1.29E-01,6.82E-01,0.02,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: M24 Other specific joint derangements,ukbb,,0,European,-0.23,0.15,-1.52,1.29E-01,6.82E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Medication for cholesterol_ blood pressure or diabetes: Blood pressure medication,ukbb,,0,European,-0.09,0.06,-1.52,1.29E-01,6.82E-01,0.10,0.01,1.03,0.01,0.01,0.01
+Diagnoses - main ICD10: R55 Syncope and collapse,ukbb,,0,European,-0.22,0.14,-1.52,1.29E-01,6.82E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Obesity class 1,anthropometric,,23563607,European,-0.08,0.05,-1.51,1.30E-01,6.82E-01,0.22,0.01,1.02,0.01,0.01,0.01
+Lumbar spine bone mineral density,bone,,22504420,Mixed,0.10,0.07,1.51,1.31E-01,6.82E-01,0.27,0.02,1.01,0.01,0.00,0.01
+Medication for cholesterol_ blood pressure_ diabetes_ or take exogenous hormones: None of the above,ukbb,,0,European,0.10,0.07,1.51,1.32E-01,6.82E-01,0.07,0.00,1.02,0.01,-0.01,0.01
+Cholesterol esters in medium HDL,metabolites,,27005778,European,0.24,0.16,1.50,1.34E-01,6.82E-01,0.06,0.03,1.00,0.01,0.00,0.00
+Serum cystatin c,kidney,,26831199,Mixed,0.14,0.10,1.50,1.34E-01,6.82E-01,0.17,0.07,0.96,0.01,0.00,0.01
+Diagnoses - main ICD10: D12 Benign neoplasm of colon_ rectum_ anus and anal canal,ukbb,,0,European,0.16,0.10,1.50,1.35E-01,6.82E-01,0.01,0.00,1.00,0.01,-0.01,0.00
+Lung adenocarcinoma,cancer,,27488534,European,-0.24,0.16,-1.49,1.35E-01,6.82E-01,0.03,0.01,1.02,0.01,0.02,0.00
+Used an inhaler for chest within last hour,ukbb,,0,European,-0.21,0.14,-1.49,1.36E-01,6.82E-01,0.00,0.00,1.00,0.01,0.01,0.00
+Family relationship satisfaction,ukbb,,0,European,-0.12,0.08,-1.48,1.39E-01,6.89E-01,0.06,0.01,1.00,0.01,0.01,0.01
+Birth weight,ukbb,,0,European,0.08,0.05,1.47,1.41E-01,6.89E-01,0.11,0.01,1.05,0.01,-0.01,0.01
+Forced expiratory volume in 1 second (FEV1),lung_function,,28166213,European,-0.09,0.06,-1.47,1.41E-01,6.89E-01,0.27,0.02,0.97,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: anxiety/panic attacks,ukbb,,0,European,0.19,0.13,1.47,1.42E-01,6.89E-01,0.01,0.00,1.00,0.01,-0.01,0.01
+Diagnoses - main ICD10: G47 Sleep disorders,ukbb,,0,European,-0.19,0.13,-1.47,1.42E-01,6.89E-01,0.01,0.00,0.99,0.01,0.01,0.01
+Financial situation satisfaction,ukbb,,0,European,0.10,0.07,1.46,1.46E-01,6.96E-01,0.06,0.01,1.01,0.01,0.00,0.00
+Types of physical activity in last 4 weeks: Other exercises (eg: swimming_ cycling_ keep fit_ bowling),ukbb,,0,European,-0.08,0.05,-1.45,1.47E-01,6.96E-01,0.05,0.00,1.01,0.01,0.00,0.01
+Total Cholesterol,lipids,,20686565,European,0.09,0.06,1.45,1.47E-01,6.96E-01,0.15,0.02,0.99,0.02,0.00,0.01
+Total cholesterol in small VLDL,metabolites,,27005778,European,-0.20,0.14,-1.45,1.48E-01,6.96E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Tense / highly strung,ukbb,,0,European,0.08,0.05,1.45,1.48E-01,6.96E-01,0.06,0.00,1.00,0.01,0.00,0.01
+Diagnoses - main ICD10: C50 Malignant neoplasm of breast,ukbb,,0,European,-0.15,0.11,-1.44,1.50E-01,7.00E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Types of transport used (excluding work): Public transport,ukbb,,0,European,-0.10,0.07,-1.44,1.51E-01,7.00E-01,0.02,0.00,1.03,0.01,-0.01,0.01
+Non-cancer illness code_ self-reported: diverticular disease/diverticulitis,ukbb,,0,European,0.13,0.09,1.43,1.53E-01,7.04E-01,0.01,0.00,0.99,0.01,-0.01,0.01
+Amyotrophic lateral sclerosis,neurological,,27455348,European,0.21,0.15,1.42,1.55E-01,7.10E-01,0.05,0.01,0.99,0.01,0.01,0.01
+Diagnoses - main ICD10: M10 Gout,ukbb,,0,European,-0.29,0.21,-1.41,1.59E-01,7.21E-01,0.00,0.00,1.00,0.01,0.01,0.00
+Number of days/week walked 10+ minutes,ukbb,,0,European,0.08,0.06,1.40,1.60E-01,7.21E-01,0.04,0.00,1.01,0.01,0.00,0.01
+Age of smoking initiation,smoking_behaviour,,20418890,European,0.19,0.14,1.40,1.60E-01,7.21E-01,0.06,0.02,1.00,0.01,-0.01,0.00
+Non-cancer illness code_ self-reported: sleep apnoea,ukbb,,0,European,-0.23,0.17,-1.40,1.62E-01,7.23E-01,0.00,0.00,1.00,0.01,0.01,0.00
+Mouth/teeth dental problems: Mouth ulcers,ukbb,,0,European,-0.09,0.07,-1.39,1.63E-01,7.23E-01,0.03,0.00,1.03,0.01,0.01,0.01
+Medication for cholesterol_ blood pressure or diabetes: None of the above,ukbb,,0,European,0.08,0.06,1.39,1.63E-01,7.23E-01,0.09,0.01,1.03,0.01,-0.01,0.01
+Free cholesterol in small VLDL,metabolites,,27005778,European,-0.17,0.12,-1.38,1.68E-01,7.38E-01,0.12,0.03,1.00,0.01,0.00,0.00
+Triglycerides in very large HDL,metabolites,,27005778,European,-0.19,0.14,-1.38,1.69E-01,7.38E-01,0.09,0.03,1.01,0.03,0.01,0.00
+Worry too long after embarrassment,ukbb,,0,European,-0.07,0.05,-1.37,1.71E-01,7.38E-01,0.07,0.00,1.02,0.01,0.00,0.01
+Breastfed as a baby,ukbb,,0,European,-0.11,0.08,-1.37,1.71E-01,7.38E-01,0.03,0.00,1.02,0.01,0.00,0.00
+No-wear time bias adjusted acceleration standard deviation,ukbb,,0,European,0.10,0.08,1.37,1.72E-01,7.38E-01,0.09,0.01,1.00,0.01,0.00,0.01
+Insomnia,sleeping,,27992416,European,-0.09,0.07,-1.36,1.73E-01,7.38E-01,0.13,0.01,1.00,0.01,0.01,0.00
+Diagnoses - main ICD10: R35 Polyuria,ukbb,,0,European,0.27,0.20,1.35,1.76E-01,7.46E-01,0.00,0.00,1.00,0.01,-0.01,0.00
+Diagnoses - main ICD10: S66 Injury of muscle and tendon at wrist and hand level,ukbb,,0,European,-0.27,0.20,-1.35,1.78E-01,7.50E-01,0.00,0.00,1.00,0.01,0.00,0.01
+Total lipids in medium HDL,metabolites,,27005778,European,0.20,0.15,1.34,1.80E-01,7.56E-01,0.06,0.03,1.00,0.01,0.01,0.00
+Diagnoses - main ICD10: K22 Other diseases of oesophagus,ukbb,,0,European,0.20,0.15,1.34,1.82E-01,7.59E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Pack years of smoking PREVIEW ONLY,ukbb,,0,European,0.08,0.06,1.33,1.85E-01,7.68E-01,0.11,0.01,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: E04 Other non-toxic goitre,ukbb,,0,European,0.18,0.14,1.32,1.86E-01,7.69E-01,0.01,0.00,0.99,0.01,-0.01,0.00
+Non-cancer illness code_ self-reported: gout,ukbb,,0,European,0.09,0.07,1.32,1.88E-01,7.69E-01,0.02,0.01,0.99,0.02,0.00,0.01
+Hand grip strength (right),ukbb,,0,European,-0.06,0.04,-1.31,1.89E-01,7.69E-01,0.10,0.00,1.06,0.01,0.00,0.01
+Diagnoses - main ICD10: M16 Coxarthrosis [arthrosis of hip],ukbb,,0,European,-0.12,0.09,-1.31,1.90E-01,7.69E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: muscle or soft tissue injuries,ukbb,,0,European,-0.27,0.20,-1.31,1.92E-01,7.69E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Systolic blood pressure_ automated reading,ukbb,,0,European,-0.06,0.05,-1.31,1.92E-01,7.69E-01,0.13,0.01,1.07,0.02,0.00,0.01
+Glycoprotein acetyls; mainly a1-acid glycoprotein,metabolites,,27005778,European,-0.18,0.14,-1.30,1.92E-01,7.69E-01,0.10,0.03,0.99,0.01,0.01,0.00
+Illnesses of siblings: Diabetes,ukbb,,0,European,0.12,0.09,1.30,1.95E-01,7.69E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Former alcohol drinker,ukbb,,0,European,0.15,0.11,1.29,1.96E-01,7.69E-01,0.12,0.02,1.00,0.01,0.00,0.01
+Number of full brothers,ukbb,,0,European,0.10,0.08,1.29,1.96E-01,7.69E-01,0.02,0.00,1.03,0.01,0.00,0.00
+Diagnoses - main ICD10: F31 Bipolar affective disorder,ukbb,,0,European,-0.18,0.14,-1.29,1.96E-01,7.69E-01,0.00,0.00,0.99,0.01,0.01,0.01
+Illnesses of father: None of the above (group 1),ukbb,,0,European,0.12,0.09,1.29,1.99E-01,7.69E-01,0.01,0.00,1.02,0.01,-0.01,0.01
+Diagnoses - main ICD10: I30 Acute pericarditis,ukbb,,0,European,-0.29,0.23,-1.27,2.03E-01,7.69E-01,0.00,0.00,0.99,0.01,0.01,0.01
+Number of days/week of vigorous physical activity 10+ minutes,ukbb,,0,European,0.08,0.06,1.27,2.03E-01,7.69E-01,0.04,0.00,1.01,0.01,0.00,0.01
+Illnesses of siblings: None of the above (group 2),ukbb,,0,European,0.14,0.11,1.27,2.04E-01,7.69E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Urinary albumin-to-creatinine ratio,kidney,,26631737,European,0.13,0.11,1.27,2.04E-01,7.69E-01,0.05,0.01,1.00,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: ulcerative colitis,ukbb,,0,European,-0.18,0.14,-1.27,2.06E-01,7.69E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Medication for cholesterol_ blood pressure or diabetes: Cholesterol lowering medication,ukbb,,0,European,-0.08,0.07,-1.26,2.07E-01,7.69E-01,0.07,0.01,1.02,0.01,0.01,0.01
+Duration walking for pleasure,ukbb,,0,European,-0.11,0.08,-1.26,2.07E-01,7.69E-01,0.03,0.00,1.01,0.01,0.00,0.01
+Fracture resulting from simple fall,ukbb,,0,European,-0.18,0.14,-1.26,2.08E-01,7.69E-01,0.05,0.01,0.99,0.01,0.00,0.00
+Age at Menarche,reproductive,,25231870,European,0.06,0.05,1.26,2.08E-01,7.69E-01,0.20,0.01,0.95,0.01,-0.01,0.01
+Ever had stillbirth_ spontaneous miscarriage or termination,ukbb,,0,European,0.12,0.10,1.26,2.09E-01,7.69E-01,0.02,0.00,1.00,0.01,0.00,0.00
+Subjective well being,psychiatric,,27089181,European,-0.10,0.08,-1.26,2.10E-01,7.69E-01,0.03,0.00,1.00,0.01,0.01,0.01
+Illnesses of father: Heart disease,ukbb,,0,European,-0.09,0.07,-1.25,2.11E-01,7.69E-01,0.03,0.00,1.00,0.01,0.00,0.00
+Mouth/teeth dental problems: Loose teeth,ukbb,,0,European,-0.10,0.08,-1.25,2.12E-01,7.69E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: cholelithiasis/gall stones,ukbb,,0,European,-0.14,0.11,-1.24,2.13E-01,7.69E-01,0.01,0.00,1.02,0.01,0.01,0.01
+Number of trend entries,ukbb,,0,European,0.17,0.13,1.24,2.15E-01,7.69E-01,0.03,0.01,1.01,0.01,0.00,0.00
+Duration of vigorous activity,ukbb,,0,European,-0.08,0.07,-1.24,2.15E-01,7.69E-01,0.04,0.00,0.99,0.01,0.01,0.00
+Diagnoses - main ICD10: Z47 Other orthopaedic follow-up care,ukbb,,0,European,-0.21,0.17,-1.24,2.16E-01,7.69E-01,0.00,0.00,1.00,0.01,0.01,0.00
+Diagnoses - main ICD10: K21 Gastro-oesophageal reflux disease,ukbb,,0,European,0.15,0.12,1.24,2.16E-01,7.69E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Nap during day,ukbb,,0,European,-0.06,0.05,-1.23,2.18E-01,7.74E-01,0.08,0.00,1.02,0.01,0.01,0.01
+Illness_ injury_ bereavement_ stress in last 2 years: Death of a close relative,ukbb,,0,European,0.15,0.12,1.22,2.21E-01,7.77E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Apolipoprotein B,metabolites,,27005778,European,-0.17,0.14,-1.22,2.22E-01,7.77E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Had other major operations,ukbb,,0,European,-0.10,0.09,-1.22,2.23E-01,7.77E-01,0.03,0.00,1.01,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: osteoarthritis,ukbb,,0,European,0.10,0.08,1.21,2.26E-01,7.77E-01,0.02,0.00,1.03,0.01,0.00,0.01
+Reason for reducing amount of alcohol drunk: Health precaution,ukbb,,0,European,0.09,0.08,1.20,2.30E-01,7.77E-01,0.05,0.00,1.00,0.01,0.00,0.00
+Total cholesterol in HDL,metabolites,,27005778,European,0.14,0.11,1.20,2.30E-01,7.77E-01,0.09,0.03,1.01,0.01,0.00,0.00
+Chest pain or discomfort,ukbb,,0,European,-0.07,0.06,-1.20,2.31E-01,7.77E-01,0.03,0.00,1.02,0.01,0.01,0.01
+Femoral Neck bone mineral density,bone,,26367794,Mixed,0.09,0.08,1.20,2.31E-01,7.77E-01,0.13,0.01,0.98,0.01,-0.01,0.00
+Current employment status: In paid employment or self-employed,ukbb,,0,European,-0.13,0.11,-1.20,2.31E-01,7.77E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Number of cigarettes previously smoked daily,ukbb,,0,European,0.08,0.07,1.20,2.31E-01,7.77E-01,0.10,0.01,1.00,0.01,0.00,0.00
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: Asthma,ukbb,,0,European,-0.06,0.05,-1.19,2.33E-01,7.77E-01,0.06,0.01,1.03,0.01,0.01,0.01
+Concentration of medium HDL particles,metabolites,,27005778,European,0.17,0.15,1.19,2.33E-01,7.77E-01,0.06,0.03,0.99,0.01,0.01,0.00
+Overweight,anthropometric,,23563607,European,-0.06,0.05,-1.19,2.33E-01,7.77E-01,0.11,0.01,1.02,0.01,0.00,0.01
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning_ watering the lawn),ukbb,,0,European,-0.07,0.06,-1.19,2.34E-01,7.77E-01,0.04,0.00,1.01,0.01,-0.01,0.01
+Number of self-reported cancers,ukbb,,0,European,-0.14,0.11,-1.19,2.35E-01,7.78E-01,0.01,0.00,1.01,0.01,-0.01,0.00
+Potassium in urine,ukbb,,0,European,-0.07,0.06,-1.17,2.40E-01,7.83E-01,0.04,0.00,1.02,0.01,0.00,0.01
+Smoking status: Previous,ukbb,,0,European,-0.06,0.05,-1.17,2.41E-01,7.83E-01,0.05,0.00,1.02,0.01,0.01,0.01
+Ever smoked,ukbb,,0,European,-0.05,0.05,-1.17,2.42E-01,7.83E-01,0.08,0.00,1.02,0.01,0.01,0.01
+Phospholipids in small VLDL,metabolites,,27005778,European,-0.14,0.12,-1.17,2.42E-01,7.83E-01,0.12,0.04,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: retinal detachment,ukbb,,0,European,-0.21,0.18,-1.17,2.44E-01,7.83E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Past tobacco smoking,ukbb,,0,European,0.05,0.04,1.17,2.44E-01,7.83E-01,0.09,0.00,1.02,0.01,-0.01,0.01
+Total lipids in small HDL,metabolites,,27005778,European,0.21,0.18,1.17,2.44E-01,7.83E-01,0.06,0.03,1.00,0.01,0.00,0.00
+Phospholipids in medium HDL,metabolites,,27005778,European,0.16,0.13,1.16,2.45E-01,7.83E-01,0.07,0.02,0.99,0.01,0.01,0.00
+Rheumatoid Arthritis,autoimmune,,24390342,European,-0.08,0.07,-1.16,2.46E-01,7.83E-01,0.16,0.03,1.02,0.02,0.01,0.00
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: None of the above,ukbb,,0,European,0.06,0.05,1.16,2.48E-01,7.84E-01,0.08,0.01,1.04,0.02,-0.01,0.01
+Current employment status: Doing unpaid or voluntary work,ukbb,,0,European,-0.11,0.10,-1.15,2.48E-01,7.84E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Cough on most days,ukbb,,0,European,-0.11,0.10,-1.15,2.51E-01,7.86E-01,0.05,0.01,1.00,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: arthritis (nos),ukbb,,0,European,-0.29,0.26,-1.15,2.51E-01,7.86E-01,0.00,0.00,1.02,0.01,0.01,0.00
+Lumbar Spine bone mineral density,bone,,26367794,Mixed,0.09,0.08,1.14,2.52E-01,7.87E-01,0.13,0.02,0.98,0.01,0.00,0.00
+Forced Vital capacity(FVC),lung_function,,28166213,European,-0.07,0.06,-1.13,2.57E-01,7.91E-01,0.26,0.02,0.98,0.01,0.00,0.01
+Heel bone mineral density (BMD) T-score_ automated,ukbb,,0,European,0.04,0.04,1.13,2.58E-01,7.91E-01,0.29,0.03,1.08,0.04,0.00,0.01
+Diagnoses - main ICD10: M25 Other joint disorders_ not elsewhere classified,ukbb,,0,European,-0.40,0.35,-1.13,2.59E-01,7.91E-01,0.00,0.00,1.02,0.01,0.01,0.00
+Illness_ injury_ bereavement_ stress in last 2 years: None of the above,ukbb,,0,European,-0.07,0.06,-1.13,2.59E-01,7.91E-01,0.02,0.00,1.01,0.01,0.01,0.00
+LDL cholesterol,lipids,,20686565,European,0.07,0.07,1.13,2.60E-01,7.91E-01,0.13,0.02,1.01,0.02,0.00,0.01
+Phospholipids in chylomicrons and largest VLDL particles,metabolites,,27005778,European,-0.12,0.11,-1.12,2.62E-01,7.91E-01,0.10,0.03,0.98,0.01,0.01,0.00
+Mineral and other dietary supplements: Calcium,ukbb,,0,European,0.09,0.08,1.12,2.63E-01,7.91E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Major depressive disorder,psychiatric,,22472876,European,0.11,0.10,1.12,2.63E-01,7.91E-01,0.17,0.03,1.01,0.01,0.01,0.00
+Mono-unsaturated fatty acids,metabolites,,27005778,European,0.15,0.13,1.12,2.64E-01,7.91E-01,0.11,0.04,0.99,0.01,0.00,0.00
+Type 2 Diabetes,glycemic,,22885922,European,0.09,0.08,1.12,2.64E-01,7.91E-01,0.09,0.01,1.01,0.01,0.01,0.00
+Lung cancer (all),cancer,,24880342,European,-0.12,0.11,-1.11,2.67E-01,7.95E-01,0.13,0.03,1.01,0.01,0.02,0.01
+Total lipids in small VLDL,metabolites,,27005778,European,-0.13,0.11,-1.11,2.68E-01,7.95E-01,0.15,0.04,0.99,0.01,0.00,0.00
+Excessive daytime sleepiness,sleeping,,27992416,European,-0.08,0.08,-1.11,2.68E-01,7.95E-01,0.05,0.01,1.00,0.01,0.01,0.00
+Primary sclerosing cholangitis ,autoimmune,,27992413,Mixed,-0.09,0.08,-1.10,2.71E-01,7.98E-01,0.40,0.16,0.99,0.02,0.01,0.01
+Wheeze or whistling in the chest in last year,ukbb,,0,European,0.05,0.05,1.10,2.73E-01,7.98E-01,0.06,0.00,1.03,0.01,0.01,0.01
+Pulse rate,ukbb,,0,European,0.06,0.06,1.10,2.73E-01,7.98E-01,0.14,0.01,1.03,0.01,-0.01,0.01
+Non-cancer illness code_ self-reported: varicose veins,ukbb,,0,European,0.15,0.14,1.09,2.75E-01,7.98E-01,0.00,0.00,1.01,0.01,-0.01,0.00
+Triglycerides in IDL,metabolites,,27005778,European,-0.14,0.13,-1.09,2.75E-01,7.98E-01,0.12,0.03,1.00,0.01,0.00,0.00
+Alcohol drinker status: Previous,ukbb,,0,European,0.09,0.08,1.09,2.76E-01,7.98E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Illnesses of siblings: None of the above (group 1),ukbb,,0,European,0.08,0.07,1.09,2.77E-01,7.99E-01,0.04,0.00,1.01,0.01,-0.01,0.01
+Alanine,metabolites,,27005778,European,-0.14,0.13,-1.08,2.79E-01,7.99E-01,0.08,0.03,1.01,0.01,0.00,0.00
+Distance between home and job workplace,ukbb,,0,European,-0.14,0.13,-1.08,2.80E-01,7.99E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Adopted as a child,ukbb,,0,European,0.14,0.13,1.08,2.82E-01,8.03E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Relative age of first facial hair,ukbb,,0,European,-0.05,0.05,-1.07,2.85E-01,8.08E-01,0.12,0.01,1.05,0.02,0.00,0.01
+Pain type(s) experienced in last month: Neck or shoulder pain,ukbb,,0,European,0.07,0.06,1.07,2.86E-01,8.08E-01,0.03,0.00,1.02,0.01,0.01,0.01
+Duration of strenuous sports,ukbb,,0,European,0.17,0.16,1.06,2.87E-01,8.08E-01,0.03,0.01,0.99,0.01,0.00,0.00
+Neck/shoulder pain for 3+ months,ukbb,,0,European,0.14,0.14,1.06,2.88E-01,8.08E-01,0.02,0.01,1.01,0.01,0.00,0.00
+Cholesterol esters in medium VLDL,metabolites,,27005778,European,-0.11,0.11,-1.06,2.91E-01,8.10E-01,0.16,0.04,0.98,0.01,0.00,0.00
+Ever had prostate specific antigen (PSA) test,ukbb,,0,European,0.10,0.09,1.05,2.92E-01,8.10E-01,0.03,0.00,1.00,0.01,-0.01,0.01
+Diagnoses - main ICD10: R04 Haemorrhage from respiratory passages,ukbb,,0,European,0.21,0.20,1.05,2.93E-01,8.10E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: K57 Diverticular disease of intestine,ukbb,,0,European,0.10,0.09,1.05,2.94E-01,8.10E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Bring up phlegm/sputum/mucus on most days,ukbb,,0,European,0.13,0.12,1.05,2.95E-01,8.10E-01,0.03,0.01,1.01,0.01,0.00,0.01
+Concentration of very small VLDL particles,metabolites,,27005778,European,-0.13,0.12,-1.05,2.96E-01,8.10E-01,0.13,0.04,1.00,0.01,0.00,0.00
+Femoral neck bone mineral density,bone,,22504420,Mixed,0.06,0.06,1.04,2.96E-01,8.10E-01,0.30,0.02,0.98,0.01,-0.01,0.00
+Number of self-reported non-cancer illnesses,ukbb,,0,European,-0.06,0.05,-1.04,2.98E-01,8.11E-01,0.06,0.00,1.03,0.01,0.01,0.01
+Smoking status: Current,ukbb,,0,European,0.06,0.06,1.04,2.99E-01,8.11E-01,0.05,0.00,1.01,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: asthma,ukbb,,0,European,-0.06,0.05,-1.03,3.02E-01,8.17E-01,0.06,0.01,1.03,0.01,0.01,0.01
+Diagnoses - main ICD10: R07 Pain in throat and chest,ukbb,,0,European,-0.09,0.08,-1.03,3.04E-01,8.18E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Depressive symptoms,psychiatric,,27089181,European,0.07,0.07,1.03,3.05E-01,8.18E-01,0.05,0.00,1.00,0.01,0.00,0.01
+Average weekly spirits intake,ukbb,,0,European,0.07,0.07,1.02,3.06E-01,8.19E-01,0.03,0.00,1.02,0.01,0.00,0.01
+Illnesses of mother: None of the above (group 2),ukbb,,0,European,0.12,0.12,1.02,3.08E-01,8.19E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Total lipids in very small VLDL,metabolites,,27005778,European,-0.13,0.13,-1.02,3.08E-01,8.19E-01,0.12,0.04,1.01,0.01,0.00,0.00
+Target heart rate achieved,ukbb,,0,European,0.13,0.13,1.01,3.10E-01,8.20E-01,0.03,0.01,1.01,0.01,0.01,0.00
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee],ukbb,,0,European,0.09,0.09,1.01,3.11E-01,8.20E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Number of cigarettes currently smoked daily (current cigarette smokers),ukbb,,0,European,0.12,0.12,1.01,3.12E-01,8.20E-01,0.10,0.03,1.00,0.01,0.00,0.01
+Total cholesterol in small LDL,metabolites,,27005778,European,-0.15,0.15,-1.01,3.14E-01,8.20E-01,0.10,0.03,1.00,0.01,0.00,0.01
+Triglycerides in very small VLDL,metabolites,,27005778,European,-0.12,0.12,-1.01,3.15E-01,8.20E-01,0.14,0.04,1.00,0.01,0.00,0.00
+Phospholipids in very large VLDL,metabolites,,27005778,European,-0.11,0.11,-1.00,3.15E-01,8.20E-01,0.11,0.03,0.98,0.01,0.01,0.00
+22:6 docosahexaenoic acid,metabolites,,27005778,European,-0.14,0.14,-1.00,3.18E-01,8.25E-01,0.13,0.04,1.00,0.01,0.00,0.00
+Concentration of small VLDL particles,metabolites,,27005778,European,-0.11,0.11,-0.99,3.23E-01,8.29E-01,0.15,0.04,0.99,0.01,0.00,0.00
+Why reduced smoking: Illness or ill health,ukbb,,0,European,-0.16,0.16,-0.99,3.23E-01,8.29E-01,0.11,0.04,1.00,0.01,0.01,0.00
+Work/job satisfaction,ukbb,,0,European,-0.09,0.09,-0.99,3.24E-01,8.29E-01,0.05,0.01,0.99,0.01,0.01,0.00
+Diagnoses - main ICD10: I48 Atrial fibrillation and flutter,ukbb,,0,European,-0.09,0.10,-0.99,3.24E-01,8.29E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: J33 Nasal polyp,ukbb,,0,European,-0.17,0.18,-0.98,3.25E-01,8.29E-01,0.00,0.00,1.01,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: nasal polyps,ukbb,,0,European,-0.13,0.14,-0.98,3.28E-01,8.29E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Diabetes diagnosed by doctor,ukbb,,0,European,0.06,0.06,0.98,3.29E-01,8.29E-01,0.04,0.00,1.04,0.01,0.00,0.01
+Heart rate,haemotological,,23583979,Mixed,0.07,0.07,0.97,3.31E-01,8.29E-01,0.08,0.01,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: kidney stone/ureter stone/bladder stone,ukbb,,0,European,0.10,0.10,0.97,3.32E-01,8.29E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Exposure to tobacco smoke at home,ukbb,,0,European,0.08,0.08,0.97,3.33E-01,8.29E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Forced expiratory volume in 1 second (FEV1)/Forced Vital capacity(FVC),lung_function,,28166213,European,-0.06,0.06,-0.97,3.33E-01,8.29E-01,0.26,0.02,0.97,0.01,0.00,0.00
+Ulcerative colitis,autoimmune,,26192919,European,-0.07,0.07,-0.97,3.34E-01,8.29E-01,0.26,0.03,1.05,0.01,0.02,0.01
+Neuroticism score,ukbb,,0,European,0.04,0.04,0.97,3.34E-01,8.29E-01,0.12,0.01,1.02,0.01,-0.01,0.01
+Morning/evening person (chronotype),ukbb,,0,European,-0.04,0.04,-0.96,3.35E-01,8.29E-01,0.12,0.00,1.04,0.01,0.01,0.01
+Illnesses of mother: Diabetes,ukbb,,0,European,-0.07,0.08,-0.96,3.37E-01,8.31E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Number of pregnancy terminations,ukbb,,0,European,0.10,0.11,0.95,3.43E-01,8.35E-01,0.06,0.01,1.01,0.01,0.00,0.00
+Age at last live birth,ukbb,,0,European,-0.06,0.06,-0.95,3.44E-01,8.35E-01,0.09,0.01,1.02,0.01,0.00,0.01
+Description of average fatty acid chain length; not actual carbon number,metabolites,,27005778,European,-0.14,0.15,-0.94,3.45E-01,8.35E-01,0.10,0.03,0.98,0.01,0.00,0.00
+Mean Pallidum,brain_volume,,25607358,European,-0.11,0.12,-0.94,3.45E-01,8.35E-01,0.16,0.04,0.98,0.01,0.00,0.00
+Waist-to-hip ratio,anthropometric,,25673412,European,-0.04,0.05,-0.94,3.46E-01,8.35E-01,0.11,0.01,0.92,0.01,0.00,0.01
+Total lipids in chylomicrons and largest VLDL particles,metabolites,,27005778,European,-0.10,0.10,-0.94,3.47E-01,8.35E-01,0.12,0.03,0.99,0.01,0.01,0.00
+Ever manic/hyper for 2 days,ukbb,,0,European,0.12,0.13,0.94,3.47E-01,8.35E-01,0.02,0.00,0.99,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: back problem,ukbb,,0,European,0.14,0.15,0.94,3.48E-01,8.35E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Forearm Bone mineral density,bone,,26367794,Mixed,0.16,0.17,0.93,3.51E-01,8.35E-01,0.09,0.04,1.01,0.01,0.00,0.00
+Serum total cholesterol,metabolites,,27005778,European,-0.13,0.14,-0.93,3.51E-01,8.35E-01,0.08,0.03,1.01,0.01,0.01,0.00
+Medication for pain relief_ constipation_ heartburn: Laxatives (e.g. Dulcolax_ Senokot),ukbb,,0,European,0.08,0.09,0.93,3.52E-01,8.35E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Medication for pain relief_ constipation_ heartburn: Omeprazole (e.g. Zanprol),ukbb,,0,European,0.07,0.07,0.93,3.54E-01,8.35E-01,0.02,0.00,1.02,0.01,0.01,0.00
+Job involves shift work,ukbb,,0,European,0.07,0.07,0.93,3.55E-01,8.35E-01,0.03,0.00,1.00,0.01,0.01,0.00
+Obesity class 2,anthropometric,,23563607,European,-0.06,0.07,-0.92,3.56E-01,8.35E-01,0.18,0.01,1.00,0.01,0.01,0.01
+Ratio of bisallylic groups to total fatty acids,metabolites,,27005778,European,-0.08,0.09,-0.92,3.57E-01,8.35E-01,0.28,0.10,0.99,0.01,0.00,0.00
+Total cholesterol in large VLDL,metabolites,,27005778,European,-0.10,0.10,-0.92,3.58E-01,8.35E-01,0.12,0.03,0.99,0.01,0.00,0.00
+Acetoacetate,metabolites,,27005778,European,-0.13,0.14,-0.92,3.59E-01,8.35E-01,0.07,0.03,0.98,0.01,0.00,0.00
+Forced expiratory volume in 1-second (FEV1)_ predicted percentage,ukbb,,0,European,-0.05,0.05,-0.91,3.60E-01,8.35E-01,0.20,0.01,1.03,0.01,0.00,0.01
+Nervous feelings,ukbb,,0,European,0.05,0.05,0.91,3.61E-01,8.35E-01,0.07,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: N40 Hyperplasia of prostate,ukbb,,0,European,-0.12,0.13,-0.91,3.61E-01,8.35E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: O75 Other complications of labour and delivery_ not elsewhere classified,ukbb,,0,European,0.16,0.17,0.91,3.62E-01,8.35E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: pulmonary embolism +/- dvt,ukbb,,0,European,-0.11,0.12,-0.91,3.65E-01,8.35E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Number of treatments/medications taken,ukbb,,0,European,-0.05,0.06,-0.91,3.65E-01,8.35E-01,0.06,0.00,1.03,0.01,0.01,0.01
+Types of transport used (excluding work): Cycle,ukbb,,0,European,-0.06,0.06,-0.90,3.67E-01,8.35E-01,0.02,0.00,1.03,0.01,-0.01,0.01
+Alcohol usually taken with meals,ukbb,,0,European,-0.04,0.05,-0.90,3.69E-01,8.35E-01,0.11,0.01,1.06,0.01,-0.01,0.01
+Concentration of large VLDL particles,metabolites,,27005778,European,-0.09,0.10,-0.90,3.69E-01,8.35E-01,0.13,0.03,0.97,0.01,0.00,0.00
+Diagnoses - main ICD10: J44 Other chronic obstructive pulmonary disease,ukbb,,0,European,-0.12,0.13,-0.89,3.71E-01,8.35E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Triglycerides in very large VLDL,metabolites,,27005778,European,-0.09,0.10,-0.89,3.72E-01,8.35E-01,0.12,0.03,0.98,0.01,0.01,0.00
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain,ukbb,,0,European,-0.07,0.08,-0.89,3.72E-01,8.35E-01,0.01,0.00,1.00,0.01,0.02,0.00
+Diagnoses - main ICD10: M20 Acquired deformities of fingers and toes,ukbb,,0,European,-0.08,0.09,-0.89,3.73E-01,8.35E-01,0.01,0.00,1.00,0.01,0.01,0.00
+Underlying (primary) cause of death: ICD10: E85.4 Organ-limited amyloidosis,ukbb,,0,European,0.21,0.23,0.89,3.76E-01,8.35E-01,0.07,0.06,1.00,0.01,0.00,0.00
+Extreme bmi,anthropometric,,23563607,European,-0.06,0.07,-0.88,3.76E-01,8.35E-01,0.69,0.05,1.03,0.01,0.01,0.01
+Former vs Current smoker,smoking_behaviour,,20418890,European,0.10,0.11,0.88,3.77E-01,8.35E-01,0.06,0.01,1.00,0.01,0.00,0.00
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: Hayfever_ allergic rhinitis or eczema,ukbb,,0,European,-0.04,0.05,-0.88,3.77E-01,8.35E-01,0.07,0.01,1.04,0.02,0.00,0.01
+Trunk fat mass,ukbb,,0,European,-0.04,0.04,-0.88,3.77E-01,8.35E-01,0.23,0.01,1.08,0.02,0.00,0.01
+Frequency of unenthusiasm / disinterest in last 2 weeks,ukbb,,0,European,0.05,0.06,0.88,3.79E-01,8.35E-01,0.04,0.00,1.02,0.01,0.00,0.01
+Health satisfaction,ukbb,,0,European,-0.06,0.06,-0.88,3.80E-01,8.35E-01,0.08,0.01,1.01,0.01,0.01,0.01
+Serum total triglycerides,metabolites,,27005778,European,-0.09,0.11,-0.87,3.84E-01,8.42E-01,0.13,0.04,0.99,0.01,0.00,0.00
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: Blood clot in the leg (DVT),ukbb,,0,European,-0.09,0.10,-0.87,3.87E-01,8.45E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level,ukbb,,0,European,-0.22,0.26,-0.86,3.89E-01,8.45E-01,0.00,0.00,1.00,0.01,0.01,0.00
+2hr glucose adjusted for BMI,glycemic,,20081857,European,0.13,0.15,0.86,3.91E-01,8.45E-01,0.10,0.03,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: K43 Ventral hernia,ukbb,,0,European,0.12,0.14,0.86,3.91E-01,8.45E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Total lipids in very large VLDL,metabolites,,27005778,European,-0.08,0.10,-0.86,3.92E-01,8.45E-01,0.14,0.03,0.98,0.01,0.01,0.00
+Chronotype,sleeping,,27494321,European,0.06,0.06,0.86,3.92E-01,8.45E-01,0.10,0.01,1.01,0.01,0.00,0.00
+Qualifications: NVQ or HND or HNC or equivalent,ukbb,,0,European,0.07,0.08,0.85,3.94E-01,8.47E-01,0.02,0.00,1.01,0.01,0.01,0.00
+Cancer code_ self-reported: malignant melanoma,ukbb,,0,European,-0.11,0.13,-0.85,3.97E-01,8.51E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Diagnoses - main ICD10: K44 Diaphragmatic hernia,ukbb,,0,European,0.11,0.13,0.84,4.01E-01,8.56E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Multiple sclerosis,autoimmune,,21833088,European,-0.16,0.20,-0.84,4.03E-01,8.56E-01,0.06,0.03,1.06,0.01,0.02,0.01
+Average weekly champagne plus white wine intake,ukbb,,0,European,-0.07,0.08,-0.84,4.03E-01,8.56E-01,0.03,0.00,1.04,0.01,-0.01,0.01
+Total cholesterol in medium VLDL,metabolites,,27005778,European,-0.09,0.11,-0.83,4.09E-01,8.56E-01,0.13,0.04,0.99,0.01,0.00,0.00
+Free cholesterol in large VLDL,metabolites,,27005778,European,-0.08,0.10,-0.82,4.10E-01,8.56E-01,0.13,0.03,0.99,0.01,0.00,0.00
+Comparative body size at age 10,ukbb,,0,European,0.03,0.04,0.82,4.10E-01,8.56E-01,0.15,0.01,1.02,0.02,0.00,0.01
+Current tobacco smoking,ukbb,,0,European,0.05,0.06,0.82,4.10E-01,8.56E-01,0.06,0.00,1.01,0.01,0.01,0.01
+Eye problems/disorders: Glaucoma,ukbb,,0,European,-0.08,0.09,-0.82,4.11E-01,8.56E-01,0.04,0.01,1.02,0.01,0.00,0.01
+Pulse wave Arterial Stiffness index,ukbb,,0,European,-0.07,0.09,-0.82,4.12E-01,8.56E-01,0.04,0.01,1.01,0.01,0.00,0.01
+Hand grip strength (left),ukbb,,0,European,-0.03,0.04,-0.82,4.13E-01,8.56E-01,0.10,0.00,1.05,0.01,0.00,0.01
+Pain type(s) experienced in last month: Stomach or abdominal pain,ukbb,,0,European,0.06,0.07,0.82,4.13E-01,8.56E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: deep venous thrombosis (dvt),ukbb,,0,European,-0.08,0.10,-0.82,4.15E-01,8.56E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Impedance of leg (left),ukbb,,0,European,0.03,0.04,0.81,4.18E-01,8.56E-01,0.24,0.01,1.08,0.02,-0.01,0.01
+Diagnoses - main ICD10: N20 Calculus of kidney and ureter,ukbb,,0,European,-0.09,0.11,-0.81,4.19E-01,8.56E-01,0.01,0.00,1.01,0.01,0.00,0.00
+HOMA-B,glycemic,,20081858,European,-0.08,0.10,-0.81,4.19E-01,8.56E-01,0.09,0.01,0.99,0.01,0.00,0.01
+Ratio of bisallylic groups to double bonds,metabolites,,27005778,European,-0.07,0.09,-0.81,4.20E-01,8.56E-01,0.30,0.11,0.98,0.01,0.00,0.00
+Mean Hippocampus,brain_volume,,25607358,European,-0.10,0.13,-0.81,4.20E-01,8.56E-01,0.14,0.04,0.99,0.01,0.00,0.00
+Back pain for 3+ months,ukbb,,0,European,-0.07,0.09,-0.81,4.21E-01,8.56E-01,0.04,0.01,0.99,0.01,0.01,0.00
+Ever depressed for a whole week,ukbb,,0,European,-0.07,0.08,-0.80,4.21E-01,8.56E-01,0.06,0.01,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: I83 Varicose veins of lower extremities,ukbb,,0,European,-0.06,0.07,-0.79,4.27E-01,8.66E-01,0.02,0.00,1.03,0.01,0.01,0.00
+Cholesterol esters in large VLDL,metabolites,,27005778,European,-0.07,0.09,-0.79,4.30E-01,8.66E-01,0.17,0.03,0.98,0.01,0.00,0.00
+Leg fat mass (right),ukbb,,0,European,-0.03,0.04,-0.79,4.30E-01,8.66E-01,0.23,0.01,1.07,0.02,0.01,0.01
+Total lipids in very large HDL,metabolites,,27005778,European,-0.13,0.17,-0.79,4.31E-01,8.66E-01,0.06,0.03,1.02,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: vitiligo,ukbb,,0,European,-0.19,0.25,-0.79,4.32E-01,8.67E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Omega-9 and saturated fatty acids,metabolites,,27005778,European,0.12,0.15,0.78,4.37E-01,8.72E-01,0.09,0.04,1.00,0.01,0.00,0.00
+Total lipids in IDL,metabolites,,27005778,European,-0.11,0.14,-0.77,4.39E-01,8.72E-01,0.10,0.03,1.01,0.01,0.00,0.00
+Mean time to correctly identify matches,ukbb,,0,European,0.04,0.05,0.77,4.39E-01,8.72E-01,0.07,0.00,1.03,0.01,0.00,0.01
+Total cholesterol in IDL,metabolites,,27005778,European,-0.11,0.14,-0.77,4.42E-01,8.72E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Urinary albumin-to-creatinine ratio (non-diabetes),kidney,,26631737,European,0.09,0.11,0.77,4.43E-01,8.72E-01,0.05,0.01,1.00,0.01,0.00,0.01
+Concentration of IDL particles,metabolites,,27005778,European,-0.11,0.14,-0.77,4.43E-01,8.72E-01,0.10,0.03,1.01,0.01,0.00,0.00
+Phospholipids in very large HDL,metabolites,,27005778,European,-0.10,0.13,-0.77,4.43E-01,8.72E-01,0.09,0.03,1.01,0.02,0.01,0.00
+Illnesses of siblings: Severe depression,ukbb,,0,European,-0.07,0.09,-0.76,4.47E-01,8.73E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Child birth weight,anthropometric,,23202124,European,0.07,0.10,0.76,4.47E-01,8.73E-01,0.11,0.02,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: allergy or anaphylactic reaction to drug,ukbb,,0,European,0.24,0.32,0.76,4.48E-01,8.73E-01,0.00,0.00,1.01,0.01,0.00,0.01
+Average weekly intake of other alcoholic drinks,ukbb,,0,European,0.17,0.23,0.76,4.48E-01,8.73E-01,0.01,0.01,1.00,0.01,0.00,0.01
+Frequency of tiredness / lethargy in last 2 weeks,ukbb,,0,European,0.04,0.05,0.75,4.52E-01,8.77E-01,0.06,0.00,1.02,0.01,-0.01,0.01
+Concentration of large LDL particles,metabolites,,27005778,European,-0.10,0.14,-0.75,4.56E-01,8.77E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: Blood clot in the lung,ukbb,,0,European,-0.08,0.11,-0.74,4.59E-01,8.77E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Daytime dozing / sleeping (narcolepsy),ukbb,,0,European,-0.04,0.05,-0.74,4.62E-01,8.77E-01,0.05,0.00,1.01,0.01,0.01,0.01
+Free cholesterol in very large HDL,metabolites,,27005778,European,-0.13,0.17,-0.73,4.63E-01,8.77E-01,0.05,0.02,1.01,0.01,0.01,0.00
+Average number of double bonds in a fatty acid chain,metabolites,,27005778,European,-0.07,0.10,-0.73,4.65E-01,8.77E-01,0.17,0.05,1.00,0.01,0.00,0.00
+Body fat,anthropometric,,26833246,Mixed,-0.05,0.07,-0.73,4.65E-01,8.77E-01,0.11,0.01,0.90,0.01,0.01,0.01
+Vitamin and mineral supplements: Vitamin D,ukbb,,0,European,0.08,0.11,0.73,4.65E-01,8.77E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: K20 Oesophagitis,ukbb,,0,European,-0.16,0.22,-0.73,4.65E-01,8.77E-01,0.00,0.00,1.01,0.01,0.01,0.01
+Whole body fat mass,ukbb,,0,European,-0.03,0.04,-0.73,4.66E-01,8.77E-01,0.23,0.01,1.07,0.02,0.00,0.01
+Birth weight of first child,ukbb,,0,European,0.04,0.06,0.73,4.67E-01,8.77E-01,0.11,0.01,1.02,0.01,-0.01,0.01
+Pulse rate_ automated reading,ukbb,,0,European,0.03,0.04,0.72,4.69E-01,8.77E-01,0.15,0.01,1.05,0.03,-0.01,0.01
+Diagnoses - main ICD10: M70 Soft tissue disorders related to use_ overuse and pressure,ukbb,,0,European,0.10,0.14,0.72,4.71E-01,8.77E-01,0.00,0.00,0.98,0.01,0.00,0.00
+Medication for cholesterol_ blood pressure_ diabetes_ or take exogenous hormones: Cholesterol lowering medication,ukbb,,0,European,-0.05,0.07,-0.72,4.71E-01,8.77E-01,0.05,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: C61 Malignant neoplasm of prostate,ukbb,,0,European,0.10,0.14,0.72,4.71E-01,8.77E-01,0.00,0.00,1.02,0.01,-0.01,0.00
+Non-cancer illness code_ self-reported: diabetes,ukbb,,0,European,0.05,0.06,0.72,4.71E-01,8.77E-01,0.04,0.00,1.04,0.01,0.00,0.01
+Reason for glasses/contact lenses: For short-sightedness_ i.e. only or mainly for distance viewing such as driving_ cinema etc (called myopia),ukbb,,0,European,-0.05,0.07,-0.72,4.73E-01,8.77E-01,0.03,0.00,1.12,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: mania/bipolar disorder/manic depression,ukbb,,0,European,-0.09,0.13,-0.72,4.73E-01,8.77E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Illnesses of father: Lung cancer,ukbb,,0,European,0.06,0.09,0.71,4.75E-01,8.77E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Maximum workload during fitness test,ukbb,,0,European,0.08,0.11,0.71,4.78E-01,8.77E-01,0.04,0.01,1.01,0.01,0.00,0.00
+Leptin_not_adjBMI,hormone,,26833098,European,-0.07,0.10,-0.70,4.82E-01,8.77E-01,0.10,0.02,0.99,0.01,0.00,0.00
+Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis,ukbb,,0,European,-0.07,0.10,-0.70,4.86E-01,8.77E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Long-standing illness_ disability or infirmity,ukbb,,0,European,-0.04,0.05,-0.70,4.86E-01,8.77E-01,0.05,0.00,1.03,0.01,0.01,0.01
+Leg pain on walking,ukbb,,0,European,-0.05,0.07,-0.70,4.87E-01,8.77E-01,0.06,0.01,1.01,0.01,0.01,0.01
+Phospholipids in large HDL,metabolites,,27005778,European,0.07,0.10,0.70,4.87E-01,8.77E-01,0.13,0.03,1.00,0.01,0.00,0.00
+Cancer code_ self-reported: prostate cancer,ukbb,,0,European,0.08,0.12,0.69,4.87E-01,8.77E-01,0.01,0.00,1.01,0.01,-0.01,0.01
+Phospholipids in large VLDL,metabolites,,27005778,European,-0.07,0.11,-0.69,4.90E-01,8.77E-01,0.12,0.03,0.99,0.01,0.00,0.00
+Albumin,metabolites,,27005778,European,-0.12,0.18,-0.69,4.91E-01,8.77E-01,0.06,0.02,0.99,0.01,0.01,0.00
+Eye problems/disorders: Diabetes related eye disease,ukbb,,0,European,0.09,0.12,0.68,4.94E-01,8.77E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Doctor diagnosed asthma,ukbb,,0,European,-0.05,0.07,-0.68,4.96E-01,8.77E-01,0.07,0.01,1.00,0.01,0.00,0.01
+Inflammatory Bowel Disease (Euro),autoimmune,,26192919,European,-0.04,0.06,-0.68,4.97E-01,8.77E-01,0.33,0.03,1.05,0.01,0.02,0.01
+Arm fat mass (left),ukbb,,0,European,-0.03,0.04,-0.68,4.97E-01,8.77E-01,0.23,0.01,1.06,0.02,0.01,0.01
+Serumurate overweight,uric_acid,,25811787,European,-0.08,0.11,-0.68,4.98E-01,8.77E-01,0.52,0.29,0.97,0.03,0.00,0.00
+Arm fat mass (right),ukbb,,0,European,-0.03,0.04,-0.68,4.99E-01,8.77E-01,0.23,0.01,1.07,0.02,0.01,0.01
+Total lipids in large LDL,metabolites,,27005778,European,-0.09,0.13,-0.68,4.99E-01,8.77E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Concentration of small LDL particles,metabolites,,27005778,European,-0.09,0.14,-0.67,5.00E-01,8.77E-01,0.12,0.03,1.00,0.01,0.00,0.01
+Falls in the last year,ukbb,,0,European,-0.04,0.06,-0.67,5.00E-01,8.77E-01,0.03,0.00,1.00,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: uterine fibroids,ukbb,,0,European,-0.08,0.12,-0.67,5.01E-01,8.77E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: R31 Unspecified haematuria,ukbb,,0,European,-0.11,0.16,-0.67,5.01E-01,8.77E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Alcohol drinker status: Never,ukbb,,0,European,-0.06,0.10,-0.67,5.02E-01,8.77E-01,0.01,0.00,1.02,0.01,0.01,0.01
+Phospholipids in very small VLDL,metabolites,,27005778,European,-0.09,0.14,-0.67,5.02E-01,8.77E-01,0.10,0.03,1.01,0.01,0.00,0.00
+Guilty feelings,ukbb,,0,European,0.04,0.05,0.67,5.02E-01,8.77E-01,0.05,0.00,1.01,0.01,-0.01,0.01
+Total lipids in small LDL,metabolites,,27005778,European,-0.09,0.14,-0.67,5.02E-01,8.77E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Types of transport used (excluding work): Car/motor vehicle,ukbb,,0,European,0.04,0.06,0.67,5.04E-01,8.77E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Cholesterol esters in large LDL,metabolites,,27005778,European,-0.09,0.13,-0.67,5.05E-01,8.77E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: crohns disease,ukbb,,0,European,-0.09,0.13,-0.66,5.06E-01,8.77E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Concentration of medium LDL particles,metabolites,,27005778,European,-0.09,0.14,-0.66,5.09E-01,8.77E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Alcohol intake versus 10 years previously,ukbb,,0,European,0.04,0.07,0.66,5.09E-01,8.77E-01,0.03,0.00,1.03,0.01,0.00,0.01
+Valine,metabolites,,27005778,European,-0.09,0.14,-0.66,5.10E-01,8.77E-01,0.06,0.02,1.02,0.01,0.01,0.00
+Usual walking pace,ukbb,,0,European,-0.03,0.05,-0.66,5.12E-01,8.77E-01,0.08,0.00,1.03,0.01,-0.01,0.01
+Medication for pain relief_ constipation_ heartburn: Ibuprofen (e.g. Nurofen),ukbb,,0,European,-0.04,0.07,-0.65,5.13E-01,8.77E-01,0.02,0.00,1.00,0.01,0.00,0.00
+Cancer diagnosed by doctor,ukbb,,0,European,-0.07,0.11,-0.65,5.14E-01,8.77E-01,0.01,0.00,1.01,0.01,-0.01,0.00
+Hair/balding pattern: Pattern 4,ukbb,,0,European,0.04,0.06,0.65,5.15E-01,8.77E-01,0.17,0.02,1.10,0.02,-0.01,0.01
+Free cholesterol in medium VLDL,metabolites,,27005778,European,-0.07,0.11,-0.65,5.16E-01,8.77E-01,0.11,0.03,0.99,0.01,0.00,0.00
+Number of older siblings,ukbb,,0,European,0.15,0.23,0.65,5.16E-01,8.77E-01,0.01,0.01,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: I10 Essential (primary) hypertension,ukbb,,0,European,0.12,0.18,0.64,5.19E-01,8.77E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Pain type(s) experienced in last month: Headache,ukbb,,0,European,0.03,0.05,0.64,5.20E-01,8.77E-01,0.04,0.00,1.00,0.01,0.00,0.01
+Triglycerides in small VLDL,metabolites,,27005778,European,-0.07,0.11,-0.64,5.22E-01,8.77E-01,0.12,0.04,0.99,0.01,0.00,0.00
+Forced expiratory volume in 1 second (FEV1)/Forced Vital capacity(FVC),lung_function,,21946350,European,-0.05,0.08,-0.64,5.23E-01,8.77E-01,0.12,0.01,0.93,0.01,0.01,0.01
+Adiponectin,cardiometabolic,,22479202,Mixed,-0.07,0.11,-0.64,5.24E-01,8.77E-01,0.12,0.03,1.02,0.01,0.00,0.01
+Attention deficit hyperactivity disorder,psychiatric,,20732625,European,-0.09,0.15,-0.64,5.24E-01,8.77E-01,0.25,0.09,1.01,0.01,0.00,0.00
+Fractured bone site(s): Ankle,ukbb,,0,European,0.08,0.13,0.64,5.24E-01,8.77E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Shortness of breath walking on level ground,ukbb,,0,European,0.06,0.09,0.64,5.24E-01,8.77E-01,0.05,0.01,1.01,0.01,0.00,0.01
+Mean Thalamus,brain_volume,,25607358,European,-0.08,0.13,-0.64,5.25E-01,8.77E-01,0.14,0.04,0.98,0.01,-0.01,0.00
+Lung cancer (squamous cell),cancer,,24880342,European,-0.10,0.16,-0.63,5.26E-01,8.77E-01,0.05,0.02,1.01,0.01,0.01,0.00
+Frequency of walking for pleasure in last 4 weeks,ukbb,,0,European,0.04,0.06,0.63,5.30E-01,8.77E-01,0.03,0.00,1.01,0.01,0.01,0.00
+Maternal smoking around birth,ukbb,,0,European,0.04,0.06,0.63,5.30E-01,8.77E-01,0.05,0.00,1.04,0.01,0.00,0.01
+Free cholesterol,metabolites,,27005778,European,0.11,0.18,0.63,5.30E-01,8.77E-01,0.08,0.04,1.02,0.01,0.00,0.00
+Number of operations_ self-reported,ukbb,,0,European,0.03,0.05,0.63,5.31E-01,8.77E-01,0.04,0.00,1.04,0.01,-0.01,0.01
+Illnesses of siblings: Heart disease,ukbb,,0,European,-0.06,0.10,-0.62,5.33E-01,8.77E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: psoriasis,ukbb,,0,European,0.07,0.12,0.62,5.33E-01,8.77E-01,0.01,0.00,1.02,0.01,0.00,0.01
+Difference in height between childhood and adulthood; age 8,anthropometric,,23449627,European,0.06,0.10,0.62,5.34E-01,8.77E-01,0.34,0.05,0.97,0.01,-0.01,0.01
+Illnesses of father: None of the above (group 2),ukbb,,0,European,-0.07,0.11,-0.61,5.41E-01,8.85E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Ever taken oral contraceptive pill,ukbb,,0,European,-0.06,0.11,-0.61,5.42E-01,8.85E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: F43 Reaction to severe stress_ and adjustment disorders,ukbb,,0,European,0.28,0.46,0.61,5.43E-01,8.85E-01,0.00,0.00,1.00,0.01,0.01,0.00
+Cholesterol esters in medium LDL,metabolites,,27005778,European,-0.08,0.14,-0.60,5.45E-01,8.85E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Citrate,metabolites,,27005778,European,0.08,0.13,0.60,5.47E-01,8.85E-01,0.07,0.02,1.01,0.01,-0.01,0.00
+Non-cancer illness code_ self-reported: enlarged prostate,ukbb,,0,European,-0.07,0.12,-0.60,5.47E-01,8.85E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Total lipids in medium LDL,metabolites,,27005778,European,-0.08,0.14,-0.60,5.49E-01,8.85E-01,0.11,0.03,0.99,0.01,0.00,0.00
+Doctor diagnosed hayfever or allergic rhinitis,ukbb,,0,European,-0.04,0.07,-0.60,5.49E-01,8.85E-01,0.08,0.01,1.01,0.01,0.00,0.00
+Leg fat mass (left),ukbb,,0,European,-0.02,0.04,-0.60,5.51E-01,8.85E-01,0.23,0.01,1.07,0.02,0.01,0.01
+Frequency of light DIY in last 4 weeks,ukbb,,0,European,0.06,0.10,0.60,5.52E-01,8.85E-01,0.02,0.00,1.00,0.01,0.00,0.01
+Current employment status: Retired,ukbb,,0,European,-0.07,0.11,-0.59,5.52E-01,8.85E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: hiatus hernia,ukbb,,0,European,0.06,0.10,0.59,5.55E-01,8.88E-01,0.01,0.00,1.03,0.01,0.00,0.00
+Impedance of whole body,ukbb,,0,European,0.02,0.04,0.59,5.58E-01,8.88E-01,0.26,0.01,1.09,0.02,-0.01,0.01
+Happiness,ukbb,,0,European,-0.04,0.07,-0.59,5.58E-01,8.88E-01,0.06,0.00,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: pneumothorax,ukbb,,0,European,0.11,0.19,0.59,5.58E-01,8.88E-01,0.00,0.00,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: K76 Other diseases of liver,ukbb,,0,European,-0.10,0.17,-0.58,5.60E-01,8.89E-01,0.00,0.00,0.99,0.01,0.01,0.01
+Fathers age at death,ukbb,,0,European,0.04,0.07,0.58,5.65E-01,8.94E-01,0.03,0.00,1.02,0.01,-0.01,0.01
+Phenylalanine,metabolites,,27005778,European,-0.10,0.17,-0.57,5.68E-01,8.96E-01,0.05,0.02,1.00,0.01,0.00,0.00
+Other eye problems,ukbb,,0,European,-0.06,0.10,-0.57,5.69E-01,8.96E-01,0.01,0.00,1.02,0.01,0.00,0.01
+Triglycerides in small HDL,metabolites,,27005778,European,-0.08,0.14,-0.57,5.71E-01,8.97E-01,0.07,0.03,1.00,0.01,0.00,0.00
+Ever had hysterectomy (womb removed),ukbb,,0,European,-0.06,0.10,-0.57,5.71E-01,8.97E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Diagnoses - main ICD10: K80 Cholelithiasis,ukbb,,0,European,-0.06,0.10,-0.56,5.74E-01,8.99E-01,0.01,0.00,1.02,0.01,0.00,0.01
+Blood clot_ DVT_ bronchitis_ emphysema_ asthma_ rhinitis_ eczema_ allergy diagnosed by doctor: Emphysema/chronic bronchitis,ukbb,,0,European,-0.05,0.09,-0.56,5.75E-01,8.99E-01,0.01,0.00,0.99,0.01,0.01,0.00
+Number of children fathered,ukbb,,0,European,-0.05,0.09,-0.56,5.76E-01,8.99E-01,0.03,0.00,1.01,0.01,0.01,0.01
+Vitamin and mineral supplements: Vitamin C,ukbb,,0,European,-0.05,0.08,-0.56,5.77E-01,8.99E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Home area population density - urban or rural: Scotland - Large Urban Area,ukbb,,0,European,-0.08,0.14,-0.55,5.81E-01,8.99E-01,0.01,0.00,2.14,0.01,0.00,0.01
+Total lipids in large HDL,metabolites,,27005778,European,0.06,0.10,0.55,5.81E-01,8.99E-01,0.13,0.03,1.00,0.01,0.00,0.00
+Concentration of very large HDL particles,metabolites,,27005778,European,-0.09,0.16,-0.55,5.83E-01,8.99E-01,0.07,0.03,1.00,0.01,0.01,0.01
+Glutamine,metabolites,,27005778,European,-0.07,0.13,-0.55,5.83E-01,8.99E-01,0.06,0.02,1.02,0.01,0.00,0.00
+Snoring,ukbb,,0,European,-0.03,0.06,-0.55,5.85E-01,8.99E-01,0.06,0.00,1.02,0.01,0.00,0.01
+Mouth/teeth dental problems: Toothache,ukbb,,0,European,-0.06,0.11,-0.55,5.85E-01,8.99E-01,0.01,0.00,1.00,0.01,0.01,0.00
+Triglycerides in chylomicrons and largest VLDL particles,metabolites,,27005778,European,-0.06,0.12,-0.54,5.87E-01,8.99E-01,0.09,0.03,0.99,0.01,0.01,0.00
+Free cholesterol to esterified cholesterol ratio,metabolites,,27005778,European,0.09,0.17,0.54,5.87E-01,8.99E-01,0.08,0.04,1.01,0.01,0.00,0.00
+Mineral and other dietary supplements: Selenium,ukbb,,0,European,0.07,0.12,0.54,5.89E-01,8.99E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Mean diameter for VLDL particles,metabolites,,27005778,European,0.05,0.10,0.54,5.90E-01,8.99E-01,0.14,0.03,0.99,0.01,0.00,0.00
+Extreme waist-to-hip ratio,anthropometric,,23563607,European,-0.06,0.11,-0.54,5.90E-01,8.99E-01,0.36,0.06,0.98,0.01,0.00,0.01
+Suffer from nerves,ukbb,,0,European,0.03,0.06,0.53,5.95E-01,9.02E-01,0.05,0.00,1.00,0.01,0.00,0.01
+Vitamin and mineral supplements: Multivitamins +/- minerals,ukbb,,0,European,0.03,0.06,0.52,6.00E-01,9.02E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Vitamin and mineral supplements: Vitamin E,ukbb,,0,European,0.06,0.11,0.52,6.02E-01,9.02E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Mineral and other dietary supplements: Zinc,ukbb,,0,European,0.05,0.09,0.52,6.02E-01,9.02E-01,0.01,0.00,0.99,0.01,0.01,0.00
+Primary biliary cirrhosis,autoimmune,,26394269,European,-0.05,0.10,-0.52,6.03E-01,9.02E-01,0.38,0.06,1.00,0.01,0.02,0.01
+Concentration of large HDL particles,metabolites,,27005778,European,0.05,0.10,0.52,6.04E-01,9.02E-01,0.13,0.03,1.00,0.01,0.00,0.00
+Hearing difficulty/problems: Yes,ukbb,,0,European,-0.03,0.05,-0.52,6.04E-01,9.02E-01,0.04,0.00,1.01,0.01,0.01,0.00
+Total cholesterol in large HDL,metabolites,,27005778,European,0.06,0.11,0.52,6.05E-01,9.02E-01,0.11,0.03,1.01,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: malabsorption/coeliac disease,ukbb,,0,European,-0.04,0.07,-0.52,6.06E-01,9.02E-01,0.02,0.01,1.00,0.02,0.01,0.00
+Leptin_adjBMI,hormone,,26833098,European,-0.05,0.10,-0.51,6.07E-01,9.02E-01,0.09,0.02,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: M23 Internal derangement of knee,ukbb,,0,European,-0.05,0.11,-0.51,6.07E-01,9.02E-01,0.01,0.00,1.01,0.01,0.01,0.01
+Getting up in morning,ukbb,,0,European,0.03,0.05,0.51,6.09E-01,9.02E-01,0.07,0.00,1.04,0.01,0.00,0.01
+Sleep duration,sleeping,,27494321,European,0.04,0.07,0.51,6.09E-01,9.02E-01,0.06,0.01,1.02,0.01,-0.01,0.01
+Phospholipids in medium VLDL,metabolites,,27005778,European,-0.06,0.11,-0.51,6.12E-01,9.02E-01,0.11,0.03,1.00,0.01,0.00,0.00
+Illnesses of father: Chronic bronchitis/emphysema,ukbb,,0,European,0.04,0.08,0.51,6.13E-01,9.02E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Mean Putamen,brain_volume,,25607358,European,-0.05,0.09,-0.50,6.15E-01,9.02E-01,0.30,0.05,0.95,0.01,0.00,0.00
+Phospholipids in IDL,metabolites,,27005778,European,-0.07,0.14,-0.50,6.16E-01,9.02E-01,0.09,0.03,1.01,0.01,0.00,0.00
+Forced expiratory volume in 1 second (FEV1)/Forced Vital capacity(FVC),lung_function,,26635082,European,-0.05,0.10,-0.50,6.16E-01,9.02E-01,0.11,0.02,0.98,0.01,0.00,0.01
+Hair/balding pattern: Pattern 3,ukbb,,0,European,0.04,0.09,0.50,6.17E-01,9.02E-01,0.06,0.01,1.02,0.02,0.00,0.01
+Illnesses of mother: None of the above (group 1),ukbb,,0,European,-0.04,0.08,-0.50,6.17E-01,9.02E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Acetate,metabolites,,27005778,European,0.07,0.14,0.50,6.18E-01,9.02E-01,0.06,0.02,1.00,0.01,-0.01,0.00
+Mineral and other dietary supplements: Glucosamine,ukbb,,0,European,-0.03,0.07,-0.50,6.20E-01,9.03E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Parents age at death,aging,,27015805,European,0.05,0.11,0.49,6.25E-01,9.06E-01,0.03,0.01,1.02,0.01,0.00,0.00
+Pain type(s) experienced in last month: Back pain,ukbb,,0,European,0.03,0.06,0.49,6.25E-01,9.06E-01,0.04,0.00,1.02,0.01,0.01,0.01
+Diagnoses - main ICD10: K62 Other diseases of anus and rectum,ukbb,,0,European,-0.07,0.15,-0.48,6.28E-01,9.06E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Neo-openness to experience,personality,,21173776,European,-0.06,0.13,-0.48,6.28E-01,9.06E-01,0.11,0.03,0.99,0.01,0.00,0.00
+Headaches for 3+ months,ukbb,,0,European,-0.04,0.09,-0.48,6.34E-01,9.06E-01,0.06,0.01,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: B37 Candidiasis,ukbb,,0,European,-0.31,0.65,-0.48,6.34E-01,9.06E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Hearing difficulty/problems with background noise,ukbb,,0,European,-0.02,0.05,-0.47,6.36E-01,9.06E-01,0.05,0.00,1.02,0.01,0.01,0.01
+Free cholesterol in large HDL,metabolites,,27005778,European,0.05,0.11,0.47,6.37E-01,9.06E-01,0.11,0.03,1.01,0.01,0.00,0.00
+HOMA-IR,glycemic,,20081858,European,-0.05,0.11,-0.47,6.39E-01,9.06E-01,0.07,0.01,1.00,0.01,0.00,0.01
+Seen doctor (GP) for nerves_ anxiety_ tension or depression,ukbb,,0,European,-0.03,0.06,-0.47,6.39E-01,9.06E-01,0.06,0.00,1.01,0.01,0.00,0.01
+Vitamin and mineral supplements: Vitamin A,ukbb,,0,European,0.08,0.17,0.47,6.40E-01,9.06E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: H26 Other cataract,ukbb,,0,European,-0.05,0.10,-0.46,6.43E-01,9.06E-01,0.01,0.00,0.99,0.01,0.00,0.01
+Handedness (chirality/laterality): Use both right and left hands equally,ukbb,,0,European,-0.07,0.14,-0.46,6.43E-01,9.06E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Time spent driving,ukbb,,0,European,0.03,0.06,0.46,6.45E-01,9.06E-01,0.04,0.00,1.00,0.01,0.01,0.00
+Free cholesterol in IDL,metabolites,,27005778,European,-0.06,0.13,-0.46,6.45E-01,9.06E-01,0.10,0.03,1.01,0.01,0.00,0.00
+Concentration of medium VLDL particles,metabolites,,27005778,European,-0.05,0.10,-0.46,6.48E-01,9.06E-01,0.15,0.04,0.98,0.01,0.00,0.00
+Frequency of depressed mood in last 2 weeks,ukbb,,0,European,0.03,0.06,0.46,6.48E-01,9.06E-01,0.04,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: D25 Leiomyoma of uterus,ukbb,,0,European,0.06,0.13,0.46,6.49E-01,9.06E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Celiac disease,autoimmune,,20190752,European,0.05,0.11,0.45,6.51E-01,9.06E-01,0.31,0.05,1.06,0.01,0.00,0.01
+Pain type(s) experienced in last month: Pain all over the body,ukbb,,0,European,0.04,0.09,0.45,6.51E-01,9.06E-01,0.01,0.00,1.00,0.01,0.01,0.00
+Mothers age at death,ukbb,,0,European,0.04,0.09,0.45,6.52E-01,9.06E-01,0.02,0.00,1.03,0.01,-0.01,0.01
+Diagnoses - main ICD10: R11 Nausea and vomiting,ukbb,,0,European,0.12,0.28,0.44,6.59E-01,9.06E-01,0.00,0.00,0.99,0.01,0.00,0.01
+Birth weight,anthropometric,,27680694,European,0.02,0.06,0.44,6.62E-01,9.06E-01,0.10,0.01,1.04,0.01,0.00,0.01
+Diagnoses - main ICD10: N32 Other disorders of bladder,ukbb,,0,European,0.06,0.15,0.44,6.62E-01,9.06E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Duration of heavy DIY,ukbb,,0,European,-0.04,0.09,-0.44,6.62E-01,9.06E-01,0.03,0.00,1.01,0.01,0.00,0.01
+Mouth/teeth dental problems: Dentures,ukbb,,0,European,0.02,0.05,0.43,6.64E-01,9.06E-01,0.05,0.00,1.04,0.01,0.01,0.01
+Parkinsons disease,neurological,,19915575,European,-0.03,0.08,-0.43,6.66E-01,9.06E-01,0.41,0.12,1.12,0.01,-0.01,0.00
+Total lipids in large VLDL,metabolites,,27005778,European,-0.04,0.10,-0.43,6.66E-01,9.06E-01,0.14,0.03,0.98,0.01,0.00,0.00
+Average number of methylene groups per a double bond,metabolites,,27005778,European,0.04,0.10,0.43,6.66E-01,9.06E-01,0.21,0.08,0.99,0.01,0.00,0.00
+Total cholesterol in LDL,metabolites,,27005778,European,-0.06,0.14,-0.43,6.66E-01,9.06E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Frequency of stair climbing in last 4 weeks,ukbb,,0,European,0.03,0.06,0.43,6.68E-01,9.06E-01,0.04,0.00,1.02,0.01,0.00,0.01
+Diagnoses - main ICD10: K29 Gastritis and duodenitis,ukbb,,0,European,0.05,0.11,0.43,6.68E-01,9.06E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Attention deficit hyperactivity disorder (No GC),psychiatric,,27663945,European,0.07,0.17,0.43,6.68E-01,9.06E-01,0.07,0.03,1.01,0.01,0.01,0.01
+Impedance of arm (right),ukbb,,0,European,0.02,0.04,0.43,6.69E-01,9.06E-01,0.24,0.01,1.08,0.02,-0.01,0.01
+Duration of light DIY,ukbb,,0,European,0.03,0.08,0.43,6.69E-01,9.06E-01,0.04,0.00,1.00,0.01,0.00,0.01
+Difference in height between adolescence and adulthood; age 14,anthropometric,,23449627,European,0.06,0.13,0.43,6.71E-01,9.06E-01,0.45,0.11,0.98,0.01,0.00,0.01
+Attention deficit hyperactivity disorder (GC),psychiatric,,27663945,European,0.07,0.17,0.42,6.72E-01,9.06E-01,0.07,0.03,0.99,0.01,0.01,0.01
+Transport type for commuting to job workplace: Walk,ukbb,,0,European,0.04,0.10,0.42,6.72E-01,9.06E-01,0.02,0.00,1.01,0.01,-0.01,0.00
+Cancer code_ self-reported: lung cancer,ukbb,,0,European,-0.64,1.52,-0.42,6.73E-01,9.06E-01,0.00,0.00,0.99,0.01,0.01,0.01
+Number of depression episodes,ukbb,,0,European,0.06,0.15,0.42,6.77E-01,9.06E-01,0.03,0.01,1.00,0.01,-0.01,0.00
+Lung cancer,cancer,,27488534,European,-0.04,0.10,-0.42,6.77E-01,9.06E-01,0.32,0.07,1.01,0.01,0.02,0.01
+Length of working week for main job,ukbb,,0,European,-0.04,0.08,-0.42,6.77E-01,9.06E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Pain type(s) experienced in last month: None of the above,ukbb,,0,European,-0.02,0.05,-0.42,6.77E-01,9.06E-01,0.06,0.00,1.04,0.01,-0.01,0.01
+Triglycerides in large VLDL,metabolites,,27005778,European,-0.04,0.11,-0.41,6.80E-01,9.06E-01,0.11,0.03,0.99,0.01,0.00,0.00
+Medication for pain relief_ constipation_ heartburn: Paracetamol,ukbb,,0,European,0.03,0.06,0.41,6.80E-01,9.06E-01,0.04,0.00,1.03,0.01,0.01,0.01
+Waist circumference,ukbb,,0,European,-0.02,0.04,-0.41,6.81E-01,9.06E-01,0.20,0.01,1.06,0.02,0.00,0.01
+Age at Menopause,reproductive,,26414677,European,0.03,0.07,0.41,6.82E-01,9.06E-01,0.14,0.02,0.99,0.01,0.00,0.01
+Exposure to tobacco smoke outside home,ukbb,,0,European,-0.03,0.07,-0.41,6.82E-01,9.06E-01,0.03,0.00,1.02,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: bone disorder,ukbb,,0,European,0.09,0.23,0.41,6.83E-01,9.06E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Reason for glasses/contact lenses: For just reading/near work as you are getting older (called presbyopia),ukbb,,0,European,0.07,0.16,0.41,6.83E-01,9.06E-01,0.00,0.00,1.14,0.01,0.00,0.01
+Why stopped smoking: None of the above,ukbb,,0,European,-0.04,0.09,-0.41,6.83E-01,9.06E-01,0.04,0.01,1.00,0.01,0.01,0.00
+Total cholesterol in very large HDL,metabolites,,27005778,European,-0.09,0.21,-0.40,6.86E-01,9.07E-01,0.03,0.02,1.01,0.01,0.01,0.00
+Triglycerides in medium VLDL,metabolites,,27005778,European,-0.05,0.12,-0.40,6.86E-01,9.07E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Cholesterol esters in large HDL,metabolites,,27005778,European,0.04,0.10,0.40,6.88E-01,9.08E-01,0.13,0.03,1.00,0.01,0.00,0.00
+Ever used hormone-replacement therapy (HRT),ukbb,,0,European,-0.03,0.07,-0.40,6.91E-01,9.10E-01,0.04,0.00,1.00,0.01,0.00,0.01
+Medication for cholesterol_ blood pressure or diabetes: Insulin,ukbb,,0,European,0.06,0.16,0.40,6.93E-01,9.10E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Townsend deprivation index at recruitment,ukbb,,0,European,0.02,0.06,0.39,6.95E-01,9.10E-01,0.03,0.00,1.04,0.01,0.01,0.01
+Heel bone mineral density (BMD) T-score_ automated (left),ukbb,,0,European,0.02,0.04,0.39,6.95E-01,9.10E-01,0.30,0.04,1.03,0.02,0.00,0.01
+Illnesses of father: Diabetes,ukbb,,0,European,0.03,0.08,0.39,6.97E-01,9.10E-01,0.02,0.00,1.03,0.01,0.00,0.00
+Diagnoses - main ICD10: S09 Other and unspecified injuries of head,ukbb,,0,European,-0.06,0.15,-0.39,6.98E-01,9.10E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Concentration of very large VLDL particles,metabolites,,27005778,European,-0.04,0.11,-0.39,6.99E-01,9.10E-01,0.13,0.03,0.98,0.01,0.00,0.00
+Frequency of heavy DIY in last 4 weeks,ukbb,,0,European,0.04,0.10,0.39,7.00E-01,9.10E-01,0.02,0.00,1.01,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: hypothyroidism/myxoedema,ukbb,,0,European,0.02,0.06,0.38,7.06E-01,9.11E-01,0.05,0.01,1.03,0.02,0.00,0.01
+Noisy workplace,ukbb,,0,European,0.03,0.07,0.38,7.07E-01,9.11E-01,0.06,0.01,1.03,0.01,0.01,0.01
+Frequency of other exercises in last 4 weeks,ukbb,,0,European,0.04,0.11,0.38,7.07E-01,9.11E-01,0.02,0.00,1.00,0.01,0.00,0.01
+Home area population density - urban or rural: England/Wales - Village - less sparse,ukbb,,0,European,-0.08,0.21,-0.38,7.07E-01,9.11E-01,0.00,0.00,1.02,0.01,0.00,0.01
+Number of full sisters,ukbb,,0,European,-0.03,0.08,-0.38,7.08E-01,9.11E-01,0.02,0.00,1.04,0.01,0.01,0.01
+Diagnoses - main ICD10: S52 Fracture of forearm,ukbb,,0,European,-0.05,0.13,-0.37,7.08E-01,9.11E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Had menopause,ukbb,,0,European,0.04,0.10,0.37,7.10E-01,9.13E-01,0.02,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: R69 Unknown and unspecified causes of morbidity,ukbb,,0,European,0.05,0.13,0.37,7.13E-01,9.15E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Vitamin and mineral supplements: Vitamin B,ukbb,,0,European,0.04,0.12,0.36,7.15E-01,9.16E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Transferrin ,metal,,25352340,European,-0.04,0.12,-0.36,7.16E-01,9.16E-01,0.16,0.08,1.06,0.02,0.00,0.01
+Non-cancer illness code_ self-reported: eczema/dermatitis,ukbb,,0,European,0.04,0.10,0.36,7.19E-01,9.16E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: chronic obstructive airways disease/copd,ukbb,,0,European,0.04,0.12,0.36,7.19E-01,9.16E-01,0.01,0.00,0.99,0.01,0.01,0.01
+Other serious medical condition/disability diagnosed by doctor,ukbb,,0,European,-0.02,0.06,-0.36,7.20E-01,9.17E-01,0.03,0.00,1.01,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: ankylosing spondylitis,ukbb,,0,European,0.09,0.24,0.35,7.24E-01,9.19E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Cancer code_ self-reported: small intestine/small bowel cancer,ukbb,,0,European,0.11,0.31,0.35,7.28E-01,9.19E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Ever had bowel cancer screening,ukbb,,0,European,0.03,0.09,0.35,7.29E-01,9.19E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Mean Caudate,brain_volume,,25607358,European,0.03,0.09,0.35,7.30E-01,9.19E-01,0.25,0.04,0.97,0.01,0.00,0.00
+Crohns disease,autoimmune,,26192919,European,-0.02,0.06,-0.34,7.30E-01,9.19E-01,0.50,0.06,1.02,0.01,0.02,0.00
+Pulse wave peak to peak time,ukbb,,0,European,0.03,0.09,0.34,7.32E-01,9.19E-01,0.04,0.00,1.01,0.01,0.00,0.01
+Types of physical activity in last 4 weeks: None of the above,ukbb,,0,European,-0.02,0.07,-0.34,7.32E-01,9.19E-01,0.02,0.00,1.02,0.01,0.01,0.01
+18:2 linoleic acid (LA),metabolites,,27005778,European,0.04,0.13,0.34,7.33E-01,9.19E-01,0.14,0.05,1.00,0.01,0.00,0.00
+Total lipids in medium VLDL,metabolites,,27005778,European,-0.04,0.10,-0.34,7.33E-01,9.19E-01,0.14,0.03,0.98,0.01,0.00,0.00
+Diagnoses - main ICD10: C44 Other malignant neoplasms of skin,ukbb,,0,European,0.03,0.10,0.34,7.35E-01,9.20E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Medication for pain relief_ constipation_ heartburn: None of the above,ukbb,,0,European,-0.02,0.05,-0.34,7.37E-01,9.20E-01,0.05,0.00,1.03,0.01,-0.01,0.01
+Impedance of leg (right),ukbb,,0,European,0.01,0.04,0.33,7.38E-01,9.20E-01,0.24,0.01,1.09,0.02,0.00,0.01
+Diagnoses - main ICD10: K52 Other non-infective gastro-enteritis and colitis,ukbb,,0,European,0.05,0.15,0.33,7.39E-01,9.20E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: G56 Mononeuropathies of upper limb,ukbb,,0,European,-0.03,0.09,-0.33,7.41E-01,9.21E-01,0.01,0.00,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: type 2 diabetes,ukbb,,0,European,0.04,0.11,0.33,7.44E-01,9.22E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Trunk fat percentage,ukbb,,0,European,-0.01,0.04,-0.32,7.46E-01,9.22E-01,0.21,0.01,1.08,0.02,0.00,0.01
+Light smokers_ at least 100 smokes in lifetime,ukbb,,0,European,0.02,0.07,0.32,7.46E-01,9.22E-01,0.08,0.01,1.01,0.01,0.01,0.00
+Mean platelet volume,haemotological,,22139419,European,0.03,0.08,0.32,7.48E-01,9.22E-01,0.32,0.05,0.98,0.01,0.00,0.01
+Total cholesterol in medium LDL,metabolites,,27005778,European,-0.04,0.14,-0.32,7.48E-01,9.22E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Triglycerides,lipids,,20686565,European,-0.02,0.06,-0.32,7.51E-01,9.24E-01,0.17,0.03,0.96,0.02,0.01,0.01
+Cancer code_ self-reported: squamous cell carcinoma,ukbb,,0,European,-0.07,0.21,-0.31,7.59E-01,9.33E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Mean diameter for HDL particles,metabolites,,27005778,European,-0.03,0.11,-0.30,7.61E-01,9.33E-01,0.12,0.03,1.01,0.02,0.01,0.00
+Hearing aid user,ukbb,,0,European,-0.03,0.11,-0.30,7.65E-01,9.34E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Illnesses of mother: Chronic bronchitis/emphysema,ukbb,,0,European,0.03,0.09,0.30,7.66E-01,9.34E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: K30 Dyspepsia,ukbb,,0,European,-0.05,0.18,-0.30,7.68E-01,9.34E-01,0.00,0.00,1.00,0.01,0.00,0.01
+Bilateral oophorectomy (both ovaries removed),ukbb,,0,European,-0.03,0.10,-0.29,7.71E-01,9.34E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Number of children ever born,reproductive,,27798627,European,-0.02,0.08,-0.29,7.73E-01,9.34E-01,0.03,0.00,0.97,0.01,0.01,0.01
+Non-cancer illness code_ self-reported: emphysema/chronic bronchitis,ukbb,,0,European,-0.03,0.10,-0.29,7.73E-01,9.34E-01,0.01,0.00,0.99,0.01,0.00,0.00
+Number of unsuccessful stop-smoking attempts,ukbb,,0,European,0.03,0.10,0.29,7.74E-01,9.34E-01,0.05,0.01,1.01,0.01,-0.01,0.01
+Glucose,metabolites,,27005778,European,0.03,0.12,0.29,7.75E-01,9.34E-01,0.09,0.02,0.99,0.01,0.00,0.00
+Phospholipids in medium LDL,metabolites,,27005778,European,-0.04,0.14,-0.29,7.75E-01,9.34E-01,0.10,0.03,0.99,0.01,0.00,0.00
+Total cholesterol in large LDL,metabolites,,27005778,European,-0.04,0.13,-0.29,7.75E-01,9.34E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Age of first birth,reproductive,,27798627,European,-0.02,0.05,-0.28,7.77E-01,9.34E-01,0.06,0.00,0.95,0.01,-0.01,0.00
+Diagnoses - main ICD10: K40 Inguinal hernia,ukbb,,0,European,0.02,0.07,0.28,7.78E-01,9.34E-01,0.02,0.00,0.99,0.01,0.01,0.00
+Fractured/broken bones in last 5 years,ukbb,,0,European,0.02,0.08,0.28,7.78E-01,9.34E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Seen a psychiatrist for nerves_ anxiety_ tension or depression,ukbb,,0,European,0.02,0.06,0.28,7.80E-01,9.34E-01,0.03,0.00,1.00,0.01,-0.01,0.01
+Non-cancer illness code_ self-reported: migraine,ukbb,,0,European,-0.02,0.07,-0.28,7.81E-01,9.34E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Handedness (chirality/laterality): Left-handed,ukbb,,0,European,-0.03,0.10,-0.28,7.82E-01,9.34E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Relative age voice broke,ukbb,,0,European,0.02,0.06,0.28,7.83E-01,9.35E-01,0.07,0.01,1.01,0.01,-0.01,0.00
+Child birth length,anthropometric,,25281659,European,-0.02,0.09,-0.27,7.87E-01,9.37E-01,0.17,0.02,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: Z09 Follow-up examination after treatment for conditions other than malignant neoplasms,ukbb,,0,European,-0.05,0.17,-0.27,7.89E-01,9.37E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Neuroticism,personality,,24828478,European,0.03,0.13,0.26,7.92E-01,9.37E-01,0.02,0.00,1.01,0.01,0.00,0.01
+Neuroticism,personality,,27089181,European,0.02,0.06,0.26,7.92E-01,9.37E-01,0.09,0.01,0.99,0.01,0.00,0.01
+Impedance of arm (left),ukbb,,0,European,0.01,0.04,0.26,7.92E-01,9.37E-01,0.23,0.01,1.10,0.02,-0.01,0.01
+Medication for cholesterol_ blood pressure_ diabetes_ or take exogenous hormones: Hormone replacement therapy,ukbb,,0,European,0.03,0.10,0.26,7.93E-01,9.37E-01,0.02,0.00,1.00,0.01,0.00,0.00
+Irritability,ukbb,,0,European,-0.01,0.05,-0.26,7.96E-01,9.39E-01,0.07,0.00,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: N81 Female genital prolapse,ukbb,,0,European,0.03,0.12,0.26,7.97E-01,9.39E-01,0.01,0.00,1.02,0.01,0.00,0.01
+Ferritin,metal,,25352340,European,-0.03,0.14,-0.25,8.02E-01,9.43E-01,0.09,0.03,1.03,0.01,0.01,0.01
+Diagnoses - main ICD10: K50 Crohns disease [regional enteritis],ukbb,,0,European,-0.04,0.17,-0.25,8.04E-01,9.43E-01,0.00,0.00,1.00,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: hypertrophic cardiomyopathy (hcm / hocm),ukbb,,0,European,-0.06,0.26,-0.25,8.04E-01,9.43E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: polio / poliomyelitis,ukbb,,0,European,0.04,0.18,0.24,8.09E-01,9.45E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Leg fat percentage (left),ukbb,,0,European,0.01,0.04,0.24,8.10E-01,9.45E-01,0.21,0.01,1.08,0.02,0.01,0.01
+Forced expiratory volume in 1 second (FEV1),lung_function,,26635082,European,-0.02,0.08,-0.24,8.11E-01,9.45E-01,0.14,0.02,0.99,0.01,0.00,0.00
+Fathers age at death,aging,,27015805,European,0.03,0.12,0.24,8.11E-01,9.45E-01,0.04,0.01,1.02,0.01,0.00,0.00
+Miserableness,ukbb,,0,European,0.01,0.05,0.24,8.13E-01,9.45E-01,0.06,0.00,1.02,0.01,0.00,0.01
+Why stopped smoking: Health precaution,ukbb,,0,European,0.02,0.09,0.23,8.16E-01,9.45E-01,0.05,0.01,1.00,0.01,-0.01,0.00
+Tinnitus: Yes_ now some of the time,ukbb,,0,European,0.04,0.18,0.23,8.16E-01,9.45E-01,0.01,0.00,1.00,0.01,0.01,0.01
+Diagnoses - main ICD10: M72 Fibroblastic disorders,ukbb,,0,European,0.02,0.10,0.23,8.17E-01,9.45E-01,0.01,0.00,1.02,0.02,0.01,0.00
+Eye problems/disorders: Injury or trauma resulting in loss of vision,ukbb,,0,European,0.12,0.51,0.23,8.18E-01,9.45E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Frequency of tenseness / restlessness in last 2 weeks,ukbb,,0,European,0.01,0.05,0.23,8.18E-01,9.45E-01,0.04,0.00,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: iron deficiency anaemia,ukbb,,0,European,0.03,0.14,0.23,8.22E-01,9.48E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Heel bone mineral density (BMD) T-score_ automated (right),ukbb,,0,European,0.01,0.04,0.22,8.29E-01,9.53E-01,0.30,0.04,1.03,0.02,0.00,0.01
+Difficulty not smoking for 1 day,ukbb,,0,European,0.03,0.12,0.22,8.29E-01,9.53E-01,0.11,0.02,0.99,0.01,0.00,0.01
+Mineral and other dietary supplements: Fish oil (including cod liver oil),ukbb,,0,European,-0.02,0.08,-0.21,8.32E-01,9.53E-01,0.03,0.00,1.01,0.01,0.00,0.01
+Hair/balding pattern: Pattern 2,ukbb,,0,European,-0.02,0.07,-0.21,8.32E-01,9.53E-01,0.05,0.01,1.03,0.01,0.01,0.01
+PGC cross-disorder analysis,psychiatric,,23453885,European,0.02,0.07,0.21,8.33E-01,9.54E-01,0.17,0.01,1.01,0.01,0.02,0.01
+Arm fat percentage (right),ukbb,,0,European,0.01,0.04,0.20,8.40E-01,9.60E-01,0.22,0.01,1.08,0.02,0.00,0.01
+Sleeplessness / insomnia,ukbb,,0,European,-0.01,0.05,-0.20,8.42E-01,9.60E-01,0.06,0.00,1.02,0.01,0.01,0.01
+Mouth/teeth dental problems: None of the above,ukbb,,0,European,0.01,0.06,0.20,8.43E-01,9.60E-01,0.04,0.00,1.02,0.01,-0.02,0.01
+Non-cancer illness code_ self-reported: high cholesterol,ukbb,,0,European,0.01,0.06,0.20,8.44E-01,9.60E-01,0.04,0.00,1.03,0.01,0.01,0.01
+Diagnoses - main ICD10: J34 Other disorders of nose and nasal sinuses,ukbb,,0,European,0.04,0.19,0.19,8.46E-01,9.60E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: M21 Other acquired deformities of limbs,ukbb,,0,European,0.10,0.54,0.19,8.51E-01,9.60E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Body fat percentage,ukbb,,0,European,-0.01,0.04,-0.19,8.52E-01,9.60E-01,0.22,0.01,1.08,0.02,0.01,0.01
+Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding_ lawn mowing_ carpentry_ digging),ukbb,,0,European,0.01,0.06,0.19,8.52E-01,9.60E-01,0.03,0.00,1.01,0.01,-0.01,0.01
+Loud music exposure frequency,ukbb,,0,European,0.02,0.10,0.18,8.53E-01,9.60E-01,0.03,0.00,1.01,0.01,0.00,0.01
+Diagnoses - main ICD10: K51 Ulcerative colitis,ukbb,,0,European,-0.02,0.13,-0.18,8.53E-01,9.60E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Mean diameter for LDL particles,metabolites,,27005778,European,0.03,0.19,0.18,8.55E-01,9.60E-01,0.05,0.03,1.00,0.01,0.00,0.01
+Forced Vital capacity(FVC),lung_function,,26635082,European,0.02,0.08,0.18,8.55E-01,9.60E-01,0.15,0.01,0.99,0.01,0.00,0.00
+Sitting height ratio,anthropometric,,25865494,European,0.01,0.08,0.18,8.56E-01,9.60E-01,0.22,0.03,0.98,0.01,0.00,0.01
+Diagnoses - main ICD10: M54 Dorsalgia,ukbb,,0,European,-0.02,0.10,-0.17,8.62E-01,9.61E-01,0.01,0.00,1.00,0.01,0.01,0.01
+Urate,other,,23263486,European,-0.01,0.05,-0.17,8.62E-01,9.61E-01,0.18,0.06,0.95,0.05,0.00,0.00
+Mineral and other dietary supplements: None of the above,ukbb,,0,European,0.01,0.07,0.17,8.64E-01,9.61E-01,0.03,0.00,1.01,0.01,0.00,0.01
+Underlying (primary) cause of death: ICD10: J84.1 Other interstitial pulmonary diseases with fibrosis,ukbb,,0,European,0.04,0.21,0.17,8.64E-01,9.61E-01,0.10,0.06,0.99,0.01,-0.01,0.01
+Started insulin within one year diagnosis of diabetes,ukbb,,0,European,-0.02,0.12,-0.17,8.65E-01,9.61E-01,0.17,0.05,1.01,0.01,0.00,0.00
+Body mass index (BMI),ukbb,,0,European,-0.01,0.04,-0.17,8.65E-01,9.61E-01,0.25,0.01,1.07,0.02,0.01,0.01
+Diagnoses - main ICD10: K35 Acute appendicitis,ukbb,,0,European,0.04,0.21,0.17,8.65E-01,9.61E-01,0.00,0.00,1.00,0.01,0.00,0.01
+Ever unenthusiastic/disinterested for a whole week,ukbb,,0,European,0.01,0.08,0.17,8.67E-01,9.61E-01,0.06,0.01,1.00,0.01,0.00,0.01
+Frequency of travelling from home to job workplace,ukbb,,0,European,0.01,0.09,0.16,8.71E-01,9.64E-01,0.02,0.00,1.02,0.01,0.00,0.00
+Diagnoses - main ICD10: M67 Other disorders of synovium and tendon,ukbb,,0,European,-0.03,0.19,-0.16,8.73E-01,9.65E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: bladder problem (not cancer),ukbb,,0,European,-0.03,0.21,-0.16,8.77E-01,9.66E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: pernicious anaemia,ukbb,,0,European,0.02,0.16,0.16,8.77E-01,9.66E-01,0.00,0.00,0.99,0.01,0.00,0.01
+Diagnoses - main ICD10: J22 Unspecified acute lower respiratory infection,ukbb,,0,European,0.03,0.18,0.15,8.78E-01,9.67E-01,0.00,0.00,1.00,0.01,0.01,0.01
+Alcohol intake frequency.,ukbb,,0,European,0.01,0.05,0.15,8.79E-01,9.67E-01,0.08,0.00,1.04,0.01,0.01,0.01
+Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport),ukbb,,0,European,-0.01,0.06,-0.15,8.81E-01,9.67E-01,0.04,0.00,1.04,0.01,-0.01,0.01
+Systemic lupus erythematosus,autoimmune,,26502338,European,-0.01,0.08,-0.14,8.85E-01,9.70E-01,0.39,0.07,1.11,0.01,0.00,0.00
+Concentration of chylomicrons and largest VLDL particles,metabolites,,27005778,European,-0.02,0.11,-0.14,8.90E-01,9.74E-01,0.12,0.03,0.99,0.01,0.01,0.00
+Taking other prescription medications,ukbb,,0,European,-0.01,0.06,-0.13,8.94E-01,9.77E-01,0.04,0.00,1.02,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: vaginal prolapse/uterine prolapse,ukbb,,0,European,0.02,0.13,0.12,9.04E-01,9.84E-01,0.00,0.00,1.01,0.01,0.01,0.01
+Illnesses of siblings: Stroke,ukbb,,0,European,-0.02,0.18,-0.12,9.06E-01,9.84E-01,0.00,0.00,1.01,0.01,0.01,0.00
+Squamous cell lung cancer,cancer,,27488534,European,0.02,0.13,0.12,9.07E-01,9.84E-01,0.04,0.01,1.01,0.01,0.00,0.00
+Why stopped smoking: Doctors advice,ukbb,,0,European,-0.02,0.14,-0.12,9.07E-01,9.84E-01,0.02,0.01,1.00,0.01,0.00,0.00
+Childhood obesity,anthropometric,,22484627,European,0.01,0.08,0.11,9.09E-01,9.84E-01,0.41,0.05,0.93,0.01,0.00,0.00
+Age when periods started (menarche),ukbb,,0,European,0.00,0.04,0.11,9.13E-01,9.84E-01,0.21,0.01,1.00,0.01,0.00,0.01
+Time from waking to first cigarette,ukbb,,0,European,-0.01,0.12,-0.11,9.13E-01,9.84E-01,0.09,0.03,1.02,0.01,0.00,0.00
+Mean Accumbens,brain_volume,,25607358,European,-0.02,0.19,-0.11,9.14E-01,9.84E-01,0.09,0.04,0.98,0.01,-0.01,0.01
+Autism spectrum disorder,psychiatric,,0,European,0.01,0.08,0.11,9.15E-01,9.84E-01,0.46,0.05,0.96,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: hayfever/allergic rhinitis,ukbb,,0,European,0.01,0.07,0.11,9.16E-01,9.84E-01,0.02,0.00,1.02,0.01,0.00,0.01
+Eczema,autoimmune,,26482879,Mixed,0.01,0.11,0.11,9.16E-01,9.84E-01,0.07,0.02,1.02,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: glaucoma,ukbb,,0,European,0.01,0.09,0.10,9.20E-01,9.84E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Vitamin and mineral supplements: None of the above,ukbb,,0,European,-0.01,0.06,-0.10,9.21E-01,9.84E-01,0.03,0.00,0.99,0.01,0.00,0.00
+Transport type for commuting to job workplace: Car/motor vehicle,ukbb,,0,European,0.01,0.09,0.10,9.22E-01,9.84E-01,0.02,0.00,1.03,0.01,0.01,0.01
+Bipolar disorder,psychiatric,,21926972,European,0.01,0.07,0.10,9.23E-01,9.84E-01,0.43,0.04,1.02,0.01,0.01,0.01
+Diagnoses - main ICD10: Z80 Family history of malignant neoplasm,ukbb,,0,European,-0.02,0.25,-0.10,9.24E-01,9.84E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Eye problems/disorders: Cataract,ukbb,,0,European,-0.01,0.11,-0.09,9.26E-01,9.84E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: I84 Haemorrhoids,ukbb,,0,European,-0.01,0.10,-0.09,9.26E-01,9.84E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Free cholesterol in large LDL,metabolites,,27005778,European,-0.01,0.12,-0.09,9.27E-01,9.84E-01,0.10,0.03,1.00,0.01,0.00,0.00
+Creatinine (enzymatic) in urine,ukbb,,0,European,0.00,0.05,-0.09,9.27E-01,9.84E-01,0.07,0.00,1.02,0.01,0.00,0.01
+Mouth/teeth dental problems: Painful gums,ukbb,,0,European,0.01,0.12,0.09,9.27E-01,9.84E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: hypopituitarism,ukbb,,0,European,0.02,0.25,0.09,9.30E-01,9.84E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Neo-conscientiousness,personality,,21173776,European,0.01,0.15,0.09,9.32E-01,9.84E-01,0.07,0.03,1.00,0.01,0.00,0.01
+Tinnitus: Yes_ but not now_ but have in the past,ukbb,,0,European,-0.01,0.12,-0.08,9.33E-01,9.84E-01,0.02,0.00,0.99,0.01,0.00,0.00
+Non-cancer illness code_ self-reported: rheumatoid arthritis,ukbb,,0,European,0.01,0.13,0.08,9.33E-01,9.84E-01,0.00,0.00,1.00,0.01,0.00,0.00
+ICV,brain_volume,,25607358,European,-0.01,0.12,-0.07,9.41E-01,9.88E-01,0.17,0.05,1.00,0.01,0.00,0.00
+Diagnoses - main ICD10: H25 Senile cataract,ukbb,,0,European,0.01,0.15,0.07,9.41E-01,9.88E-01,0.00,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: N92 Excessive_ frequent and irregular menstruation,ukbb,,0,European,0.01,0.11,0.07,9.41E-01,9.88E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Pulse wave reflection index,ukbb,,0,European,0.00,0.07,-0.07,9.46E-01,9.89E-01,0.05,0.01,1.01,0.01,0.01,0.00
+Diagnoses - main ICD10: N19 Unspecified renal failure,ukbb,,0,European,-0.01,0.16,-0.07,9.47E-01,9.89E-01,0.00,0.00,1.00,0.01,0.00,0.01
+Fractured bone site(s): Wrist,ukbb,,0,European,-0.01,0.12,-0.07,9.47E-01,9.89E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Platelet count,haemotological,,22139419,European,0.00,0.07,-0.07,9.48E-01,9.89E-01,0.12,0.01,0.98,0.01,0.00,0.00
+Reproduciblity of spirometry measurement using ERS/ATS criteria,ukbb,,0,European,-0.01,0.09,-0.06,9.48E-01,9.89E-01,0.01,0.00,1.01,0.01,0.01,0.00
+Omega-3 fatty acids,metabolites,,27005778,European,-0.01,0.12,-0.06,9.55E-01,9.92E-01,0.16,0.04,0.99,0.01,0.00,0.00
+Illness_ injury_ bereavement_ stress in last 2 years: Marital separation/divorce,ukbb,,0,European,0.01,0.14,0.06,9.56E-01,9.92E-01,0.00,0.00,1.01,0.01,-0.01,0.00
+Apolipoprotein A-I,metabolites,,27005778,European,-0.01,0.16,-0.06,9.56E-01,9.92E-01,0.07,0.03,1.00,0.01,0.01,0.00
+Mothers age at death,aging,,27015805,European,-0.01,0.10,-0.05,9.58E-01,9.92E-01,0.04,0.01,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: T84 Complications of internal orthopaedic prosthetic devices_ implants and grafts,ukbb,,0,European,0.01,0.13,0.05,9.58E-01,9.92E-01,0.01,0.00,0.99,0.01,0.01,0.00
+Father still alive,ukbb,,0,European,0.01,0.14,0.05,9.60E-01,9.92E-01,0.01,0.00,1.02,0.01,0.00,0.01
+Pain type(s) experienced in last month: Knee pain,ukbb,,0,European,0.00,0.05,0.05,9.62E-01,9.94E-01,0.04,0.00,1.01,0.01,0.01,0.00
+Overall health rating,ukbb,,0,European,0.00,0.05,0.04,9.66E-01,9.95E-01,0.10,0.00,1.06,0.01,0.01,0.01
+Fed-up feelings,ukbb,,0,European,0.00,0.04,-0.04,9.66E-01,9.95E-01,0.07,0.00,1.02,0.01,0.01,0.01
+Fractured bone site(s): Other bones,ukbb,,0,European,0.00,0.12,0.04,9.69E-01,9.95E-01,0.01,0.00,1.00,0.01,0.00,0.01
+Phospholipids in large LDL,metabolites,,27005778,European,0.00,0.13,-0.04,9.70E-01,9.95E-01,0.09,0.03,1.00,0.01,0.00,0.00
+Most recent bowel cancer screening,ukbb,,0,European,0.01,0.18,0.03,9.74E-01,9.95E-01,0.01,0.01,1.01,0.01,0.00,0.01
+Non-cancer illness code_ self-reported: joint disorder,ukbb,,0,European,-0.01,0.20,-0.03,9.74E-01,9.95E-01,0.00,0.00,0.99,0.01,0.00,0.00
+Ever stopped smoking for 6+ months,ukbb,,0,European,0.00,0.14,0.03,9.75E-01,9.95E-01,0.02,0.01,1.00,0.01,0.00,0.01
+Arm fat percentage (left),ukbb,,0,European,0.00,0.04,0.03,9.76E-01,9.95E-01,0.22,0.01,1.07,0.02,0.00,0.01
+Diagnoses - main ICD10: E03 Other hypothyroidism,ukbb,,0,European,0.02,0.64,0.03,9.79E-01,9.95E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Knee pain for 3+ months,ukbb,,0,European,0.00,0.12,-0.02,9.80E-01,9.95E-01,0.03,0.01,1.00,0.01,0.01,0.00
+Non-cancer illness code_ self-reported: hyperthyroidism/thyrotoxicosis,ukbb,,0,European,0.00,0.11,0.02,9.80E-01,9.95E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Current employment status: Looking after home and/or family,ukbb,,0,European,0.00,0.13,0.02,9.81E-01,9.95E-01,0.01,0.00,1.00,0.01,0.00,0.00
+Tyrosine,metabolites,,27005778,European,0.00,0.12,0.02,9.81E-01,9.95E-01,0.08,0.03,1.00,0.01,0.00,0.00
+Leg fat percentage (right),ukbb,,0,European,0.00,0.04,-0.02,9.82E-01,9.96E-01,0.21,0.01,1.08,0.02,0.01,0.01
+Weight change compared with 1 year ago,ukbb,,0,European,0.00,0.10,-0.02,9.85E-01,9.97E-01,0.01,0.00,1.02,0.01,0.00,0.00
+Types of physical activity in last 4 weeks: Strenuous sports,ukbb,,0,European,0.00,0.07,0.02,9.87E-01,9.98E-01,0.02,0.00,1.01,0.01,0.00,0.00
+Forced expiratory volume in 1 second (FEV1),lung_function,,21946350,European,0.00,0.11,0.01,9.88E-01,9.98E-01,0.17,0.02,0.88,0.01,0.00,0.01
+Illnesses of father: Prostate cancer,ukbb,,0,European,0.00,0.11,-0.01,9.91E-01,9.98E-01,0.01,0.00,1.01,0.01,0.00,0.00
+Diagnoses - main ICD10: L03 Cellulitis,ukbb,,0,European,0.00,0.16,-0.01,9.92E-01,9.98E-01,0.00,0.00,1.00,0.01,0.00,0.00
+Cigarettes smoked per day,smoking_behaviour,,20418890,European,0.00,0.12,0.01,9.93E-01,9.98E-01,0.06,0.02,1.00,0.01,0.00,0.00
+Extreme height,anthropometric,,23563607,European,0.00,0.06,-0.01,9.94E-01,9.98E-01,1.23,0.11,1.04,0.02,-0.02,0.01
+Sleep duration,ukbb,,0,European,0.00,0.05,0.00,9.97E-01,1.00E+00,0.07,0.00,1.02,0.01,0.00,0.01
+Risk taking,ukbb,,0,European,0.00,0.05,0.00,9.99E-01,1.00E+00,0.06,0.00,1.00,0.01,0.00,0.01
+Obesity class 3,anthropometric,,23563607,European,0.00,0.09,0.00,1.00E+00,1.00E+00,0.12,0.01,0.98,0.01,0.00,0.01
