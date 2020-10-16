@@ -7,6 +7,7 @@
 ![Computational Pipeline](/outputs/pipeline.png)
 
 ### IQCK Locus
+![Manhattan](/outputs/manhattan.png)
 
 ### Phenotypic correlations with AD
 ![Phenotypes](/outputs/t31fig.png)
