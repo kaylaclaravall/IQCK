@@ -56,12 +56,13 @@ df = pd.DataFrame(data, columns=['Gene Symbol', 'VEP Consequence', 'Num'])
 # wrangle the dataframe for a stacked bar plot
 plot_ready = df.groupby(['Gene Symbol', 'VEP Consequence']).sum().unstack()
 
-# plot
-plot_ready.plot(kind='barh', y='Num', stacked=True, cmap='Set3')
+order = ['CTC-496I23.1', 'CTD-2380F24.1', '-', 'C16orf62', 'KNOP1', 'AC002550.5', 'IQCK']
+plot_ready.loc[order].plot(kind='barh', y='Num', stacked=True, cmap='Set3')
+
 
 # extras # fontdict=dict(weight='bold')
-plt.title('IQCK locus (chr16:19808163)', fontsize=25)
-plt.xlabel('Number of Variants Discovered (#)', fontsize=20)
+plt.title('Chr16: 19,716,456-19,858,467', fontsize=25)
+plt.xlabel('Number of Variant Annotations (#)', fontsize=20)
 plt.ylabel('Gene', fontsize=20)
 plt.xticks(fontsize=20)
 plt.yticks(fontsize=20)
