@@ -5,3 +5,6 @@
 
 ### Computational Pipeline
 ![Computational Pipeline](/outputs/pipeline.png)
+
+### IQCK Locus
+![IQCK Locus](/outputs/t31fig.png)
