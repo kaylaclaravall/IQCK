@@ -6,7 +6,7 @@
 ### Computational Pipeline
 ![Computational Pipeline](/outputs/pipeline.png)
 
-### IQCK Locus
+### IQCK SNPs
 ![Manhattan](/outputs/manhattan.png)
 
 ### Phenotypic correlations with AD
