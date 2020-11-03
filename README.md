@@ -9,5 +9,9 @@
 ### IQCK Variants
 ![Manhattan](/outputs/manhattan.png)
 
+### Variant annotation
+![Graph](/outputs/t9ucsc.png)
+
+
 ### Phenotypic correlations with AD
 ![Phenotypes](/outputs/t31fig.png)
